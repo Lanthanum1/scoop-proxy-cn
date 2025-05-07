@@ -5,11 +5,11 @@
   "license": "MS-PL",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.2/ScreenToGif.2.41.2.Portable.x64.zip#/setup.7z",
+      "url": "https://ghfast.top/https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.2/ScreenToGif.2.41.2.Portable.x64.zip#/setup.7z",
       "hash": "539c468a18fba9667532ef1ee2dc8b269272e07093f2b60f7ec9b92f922706a4"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.2/ScreenToGif.2.41.2.Portable.x86.zip#/setup.7z",
+      "url": "https://ghfast.top/https://github.com/NickeManarin/ScreenToGif/releases/download/2.41.2/ScreenToGif.2.41.2.Portable.x86.zip#/setup.7z",
       "hash": "66b0ce39aa329071cf4409ee31f210770ec8a70a74dbb6dacfb0179a9b1c8454"
     }
   },
@@ -27,13 +27,13 @@
     "github": "https://github.com/NickeManarin/ScreenToGif"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.zip",
+    "url": "https://ghfast.top/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.zip",
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x64.zip#/setup.7z"
+        "url": "https://ghfast.top/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x64.zip#/setup.7z"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x86.zip#/setup.7z"
+        "url": "https://ghfast.top/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x86.zip#/setup.7z"
       }
     }
   }

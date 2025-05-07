@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/modstart-lib/linkandroid/releases/download/v0.6.0/LinkAndroid-0.6.0-win-setup-x64.exe#/dl.7z",
+      "url": "https://ghfast.top/https://github.com/modstart-lib/linkandroid/releases/download/v0.6.0/LinkAndroid-0.6.0-win-setup-x64.exe#/dl.7z",
       "hash": "7ee43c8215ff27cc5eb8461b5232d0f132da127d2b02f72147ac60892eacad5d",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
       ]
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/modstart-lib/linkandroid/releases/download/v0.6.0/LinkAndroid-0.6.0-win-setup-arm64.exe#/dl.7z",
+      "url": "https://ghfast.top/https://github.com/modstart-lib/linkandroid/releases/download/v0.6.0/LinkAndroid-0.6.0-win-setup-arm64.exe#/dl.7z",
       "hash": "644a4edc36907314750419bb1e8fff353d2e916e2a622bdca79e4ebd590f3ff5",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -52,10 +52,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/modstart-lib/linkandroid/releases/download/v$version/LinkAndroid-$version-win-setup-x64.exe#/dl.7z"
+        "url": "https://ghfast.top/https://github.com/modstart-lib/linkandroid/releases/download/v$version/LinkAndroid-$version-win-setup-x64.exe#/dl.7z"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/modstart-lib/linkandroid/releases/download/v$version/LinkAndroid-$version-win-setup-arm64.exe#/dl.7z"
+        "url": "https://ghfast.top/https://github.com/modstart-lib/linkandroid/releases/download/v$version/LinkAndroid-$version-win-setup-arm64.exe#/dl.7z"
       }
     }
   }

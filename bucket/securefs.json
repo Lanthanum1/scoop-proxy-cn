@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/netheril96/securefs/releases/download/v1.1.0/securefs-windows-amd64-release.zip",
+      "url": "https://ghfast.top/https://github.com/netheril96/securefs/releases/download/v1.1.0/securefs-windows-amd64-release.zip",
       "hash": "8512e4a9b65d9b3a833e6267a8f873825372db268375060c0adeaad7e821a4f3"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/netheril96/securefs/releases/download/v$version/securefs-windows-amd64-release.zip"
+        "url": "https://ghfast.top/https://github.com/netheril96/securefs/releases/download/v$version/securefs-windows-amd64-release.zip"
       }
     }
   }

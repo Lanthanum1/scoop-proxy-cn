@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/pomerium/cli/releases/download/v0.29.1/pomerium-cli-windows-amd64.zip",
+      "url": "https://ghfast.top/https://github.com/pomerium/cli/releases/download/v0.29.1/pomerium-cli-windows-amd64.zip",
       "hash": "927c66470492bd3541dab0c0591d731222fcc87f25f5850959c8de66e1f4de28"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/pomerium/cli/releases/download/v0.29.1/pomerium-cli-windows-arm64.zip",
+      "url": "https://ghfast.top/https://github.com/pomerium/cli/releases/download/v0.29.1/pomerium-cli-windows-arm64.zip",
       "hash": "36df35773c3742391b62adf9bd71a2c18be6478292f8c1f3045e5b971ba9c153"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/pomerium/cli/releases/download/v$version/pomerium-cli-windows-amd64.zip"
+        "url": "https://ghfast.top/https://github.com/pomerium/cli/releases/download/v$version/pomerium-cli-windows-amd64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/pomerium/cli/releases/download/v$version/pomerium-cli-windows-arm64.zip"
+        "url": "https://ghfast.top/https://github.com/pomerium/cli/releases/download/v$version/pomerium-cli-windows-arm64.zip"
       }
     },
     "hash": {

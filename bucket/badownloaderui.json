@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/HIM049/BADownloaderUI/releases/download/4.9.0/BADownloaderUI-4.9.0-win.exe#/BADownloaderUI.exe",
+      "url": "https://ghfast.top/https://github.com/HIM049/BADownloaderUI/releases/download/4.9.0/BADownloaderUI-4.9.0-win.exe#/BADownloaderUI.exe",
       "hash": "9af4f6422062924cf6866616e290805c9eab51a6084b7f3f5fb1c52f87b5cd5b"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/HIM049/BADownloaderUI/releases/download/$version/BADownloaderUI-$version-win.exe#/BADownloaderUI.exe"
+        "url": "https://ghfast.top/https://github.com/HIM049/BADownloaderUI/releases/download/$version/BADownloaderUI-$version-win.exe#/BADownloaderUI.exe"
       }
     }
   }

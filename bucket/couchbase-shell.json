@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/couchbaselabs/couchbase-shell/releases/download/v1.1.0/cbsh-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/couchbaselabs/couchbase-shell/releases/download/v1.1.0/cbsh-x86_64-pc-windows-msvc.zip",
       "hash": "fe38395e8cf44b82aac0a7033422043d50f864d1a10ce6b8558bb70e175f38ec"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/couchbaselabs/couchbase-shell/releases/download/v$version/cbsh-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/couchbaselabs/couchbase-shell/releases/download/v$version/cbsh-x86_64-pc-windows-msvc.zip"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/SuxueCode/WechatBakTool/releases/download/v0.9.7.6/WechatBakTool.zip",
+      "url": "https://ghfast.top/https://github.com/SuxueCode/WechatBakTool/releases/download/v0.9.7.6/WechatBakTool.zip",
       "hash": "8387dd257edb2279651e42f8ead2b8e9c61e05995cd1ec84ef5b1ccea791a890"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/SuxueCode/WechatBakTool/releases/download/v$version/WechatBakTool.zip"
+        "url": "https://ghfast.top/https://github.com/SuxueCode/WechatBakTool/releases/download/v$version/WechatBakTool.zip"
       }
     }
   }

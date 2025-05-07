@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v2.0.0/gh-md-toc_2.0.0_windows_amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v2.0.0/gh-md-toc_2.0.0_windows_amd64.tar.gz",
       "hash": "d06b047b3314c875034f8e29f07a1c8498e3bfaab3b01cbfa06f7d37e013d222"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v2.0.0/gh-md-toc_2.0.0_windows_arm64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v2.0.0/gh-md-toc_2.0.0_windows_arm64.tar.gz",
       "hash": "22d045c736b3fedc90e42467c92dbb43bef3d8a625f05587070f6ca0b2d4f1d1"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v$version/gh-md-toc_$version_windows_amd64.tar.gz"
+        "url": "https://ghfast.top/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v$version/gh-md-toc_$version_windows_amd64.tar.gz"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v$version/gh-md-toc_$version_windows_arm64.tar.gz"
+        "url": "https://ghfast.top/https://github.com/ekalinin/github-markdown-toc.go/releases/download/v$version/gh-md-toc_$version_windows_arm64.tar.gz"
       }
     },
     "hash": {

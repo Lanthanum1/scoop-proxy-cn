@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fusionlanguage/fut/releases/download/fut-3.2.10/fut-3.2.10-win64.msi",
+      "url": "https://ghfast.top/https://github.com/fusionlanguage/fut/releases/download/fut-3.2.10/fut-3.2.10-win64.msi",
       "hash": "dbfb604d9df1c7420d57b5d5c17c5e1fe9fc586bf88f4ac1b98d6ecddff5d34e"
     }
   },
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fusionlanguage/fut/releases/download/fut-$version/fut-$version-win64.msi"
+        "url": "https://ghfast.top/https://github.com/fusionlanguage/fut/releases/download/fut-$version/fut-$version-win64.msi"
       }
     }
   }

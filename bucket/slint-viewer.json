@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/slint-ui/slint/releases/download/v1.11.0/slint-viewer-windows.zip",
+      "url": "https://ghfast.top/https://github.com/slint-ui/slint/releases/download/v1.11.0/slint-viewer-windows.zip",
       "hash": "8911cd2054386e952b3e385bd7712453d87dedc90955db0518c81178bb0244b1"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/slint-ui/slint/releases/download/v$version/slint-viewer-windows.zip"
+        "url": "https://ghfast.top/https://github.com/slint-ui/slint/releases/download/v$version/slint-viewer-windows.zip"
       }
     }
   }

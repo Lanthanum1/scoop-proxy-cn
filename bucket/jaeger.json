@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-1.68.0-windows-amd64.zip",
+      "url": "https://ghfast.top/https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-1.68.0-windows-amd64.zip",
       "extract_dir": "jaeger-1.68.0-windows-amd64",
       "hash": "a920464a5eab800bdcc99b032ca74589d060276acb33e75e287470662d8b7a82"
     }
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/jaegertracing/jaeger/releases/download/v$version/jaeger-$version-windows-amd64.zip",
+        "url": "https://ghfast.top/https://github.com/jaegertracing/jaeger/releases/download/v$version/jaeger-$version-windows-amd64.zip",
         "extract_dir": "jaeger-$version-windows-amd64"
       }
     }

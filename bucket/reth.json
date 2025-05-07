@@ -5,7 +5,7 @@
   "license": "Apache-2.0|MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/paradigmxyz/reth/releases/download/v1.3.12/reth-v1.3.12-x86_64-pc-windows-gnu.tar.gz",
+      "url": "https://ghfast.top/https://github.com/paradigmxyz/reth/releases/download/v1.3.12/reth-v1.3.12-x86_64-pc-windows-gnu.tar.gz",
       "hash": "da6b45ab55e37693f5b96465bc9356ed032e88c77c96d05277d2111615551999"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/paradigmxyz/reth/releases/download/v$version/reth-v$version-x86_64-pc-windows-gnu.tar.gz"
+        "url": "https://ghfast.top/https://github.com/paradigmxyz/reth/releases/download/v$version/reth-v$version-x86_64-pc-windows-gnu.tar.gz"
       }
     }
   }

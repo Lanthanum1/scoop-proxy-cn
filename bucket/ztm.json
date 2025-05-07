@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/flomesh-io/ztm/releases/download/v0.9.0/ztm-app-v0.9.0-win_x86_64.exe#/dl.7z",
+      "url": "https://ghfast.top/https://github.com/flomesh-io/ztm/releases/download/v0.9.0/ztm-app-v0.9.0-win_x86_64.exe#/dl.7z",
       "hash": "37b70e293c79da1ce655bed2c7bd6d7c01f9c416b40c99fe66d1ea5b88fee266"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/flomesh-io/ztm/releases/download/v$version/ztm-app-v$version-win_x86_64.exe#/dl.7z"
+        "url": "https://ghfast.top/https://github.com/flomesh-io/ztm/releases/download/v$version/ztm-app-v$version-win_x86_64.exe#/dl.7z"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/DNSCrypt/doh-server/releases/download/0.9.11/doh-proxy_0.9.11_windows-x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/DNSCrypt/doh-server/releases/download/0.9.11/doh-proxy_0.9.11_windows-x86_64.zip",
       "hash": "eddd3ef11b33bde3d7d400aa03275a4c858251163569f419ee0b9f45e3a0b76a"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/DNSCrypt/doh-server/releases/download/$version/doh-proxy_$version_windows-x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/DNSCrypt/doh-server/releases/download/$version/doh-proxy_$version_windows-x86_64.zip"
       }
     }
   }

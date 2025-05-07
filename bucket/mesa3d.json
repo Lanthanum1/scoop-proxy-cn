@@ -6,7 +6,7 @@
     "identifier": "MIT",
     "url": "https://docs.mesa3d.org/license.html"
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/pal1000/mesa-dist-win/releases/download/25.0.5/mesa3d-25.0.5-release-msvc.7z",
+  "url": "https://ghfast.top/https://github.com/pal1000/mesa-dist-win/releases/download/25.0.5/mesa3d-25.0.5-release-msvc.7z",
   "hash": "d258e59d3b46216c0ae01db9c1b70751fca998a98fb05faea196f6a1ec59bc0f",
   "notes": [
     "",
@@ -21,6 +21,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/pal1000/mesa-dist-win/releases/download/$version/mesa3d-$version-release-msvc.7z"
+    "url": "https://ghfast.top/https://github.com/pal1000/mesa-dist-win/releases/download/$version/mesa3d-$version-release-msvc.7z"
   }
 }

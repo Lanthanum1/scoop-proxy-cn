@@ -5,15 +5,15 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_x64.zip",
+      "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_x64.zip",
       "hash": "9bd4c9dff7d6dae27f6901905352a4086ccdbcec082961c520c6d3a82452d1f3"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_x86.zip",
+      "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_x86.zip",
       "hash": "8ec5d3d2aae563813a4cb3ab30d5ac9a562d2da9c4292c66b38054e186ae0518"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v10.21.35.0/Office_Tool_with_runtime_v10.21.35.0_arm64.zip",
       "hash": "c78481c872dbfc93557b7be9ce67dbf5258e96a7524f79b881602e8c51c3d41a"
     }
   },
@@ -32,13 +32,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_x64.zip"
+        "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_x64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_x86.zip"
+        "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_x86.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/YerongAI/Office-Tool/releases/download/v$version/Office_Tool_with_runtime_v$version_arm64.zip"
       }
     },
     "hash": {

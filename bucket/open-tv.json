@@ -10,7 +10,7 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fredolx/open-tv/releases/download/v1.6.1/Open.TV_1.6.1_x64_en-US.msi",
+      "url": "https://ghfast.top/https://github.com/fredolx/open-tv/releases/download/v1.6.1/Open.TV_1.6.1_x64_en-US.msi",
       "hash": "f6e186f8fe8ab6aeb8ffc886469ec06b29b2f730b3f8f930fc680b5623f8806c"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fredolx/open-tv/releases/download/v$version/Open.TV_$version_x64_en-US.msi"
+        "url": "https://ghfast.top/https://github.com/fredolx/open-tv/releases/download/v$version/Open.TV_$version_x64_en-US.msi"
       }
     }
   }

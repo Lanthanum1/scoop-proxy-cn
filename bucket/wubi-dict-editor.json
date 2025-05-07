@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.30/wubi-dict-editor-v1.30-win32-x64.zip",
+      "url": "https://ghfast.top/https://github.com/KyleBing/wubi-dict-editor/releases/download/v1.30/wubi-dict-editor-v1.30-win32-x64.zip",
       "extract_dir": "五笔码表助手-v1.30-win32-x64",
       "hash": "df062950da2c9bffb1393d0cedf293ae8d59e8d9ec8a4803efd8e3519a7f4376"
     }
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/KyleBing/wubi-dict-editor/releases/download/v$version/wubi-dict-editor-v$version-win32-x64.zip",
+        "url": "https://ghfast.top/https://github.com/KyleBing/wubi-dict-editor/releases/download/v$version/wubi-dict-editor-v$version-win32-x64.zip",
         "extract_dir": "五笔码表助手-v$version-win32-x64"
       }
     }

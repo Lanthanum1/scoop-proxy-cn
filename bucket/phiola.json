@@ -3,7 +3,7 @@
   "description": "A fast media player/recorder/converter",
   "homepage": "https://github.com/stsaz/phiola",
   "license": "GPL-3.0-only",
-  "url": "https://ghproxy.085404.xyz/https://github.com/stsaz/phiola/releases/download/v2.4.5/phiola-2.4.5-windows-x64.zip",
+  "url": "https://ghfast.top/https://github.com/stsaz/phiola/releases/download/v2.4.5/phiola-2.4.5-windows-x64.zip",
   "hash": "54199c8178d5a65480565a5182d1b74ecc231134f1e3eb7657450f27f97f0724",
   "extract_dir": "phiola-2",
   "bin": "phiola.exe",
@@ -20,7 +20,7 @@
     "re": "/releases/tag/v([\\d\\w.-]+)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/stsaz/phiola/releases/download/v$version/phiola-$version-windows-x64.zip",
+    "url": "https://ghfast.top/https://github.com/stsaz/phiola/releases/download/v$version/phiola-$version-windows-x64.zip",
     "extract_dir": "phiola-$majorVersion"
   }
 }

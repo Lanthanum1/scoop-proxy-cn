@@ -1,7 +1,7 @@
 {
   "description": "A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live. This versions contains more LaTeX packages.",
   "homepage": "https://yihui.org/tinytex/",
-  "url": "https://ghproxy.085404.xyz/https://github.com/yihui/tinytex-releases/releases/download/v2025.05/TinyTeX-v2025.05.zip",
+  "url": "https://ghfast.top/https://github.com/yihui/tinytex-releases/releases/download/v2025.05/TinyTeX-v2025.05.zip",
   "extract_dir": "TinyTeX",
   "license": "https://tug.org/texlive/LICENSE.TL",
   "hash": "52238f59613ad5ab2c43ddc636520c8f194ace093ab4256774cbdcaf70462a38",
@@ -49,6 +49,6 @@
     "github": "https://github.com/yihui/tinytex-releases"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/yihui/tinytex-releases/releases/download/v$version/TinyTeX-v$version.zip"
+    "url": "https://ghfast.top/https://github.com/yihui/tinytex-releases/releases/download/v$version/TinyTeX-v$version.zip"
   }
 }

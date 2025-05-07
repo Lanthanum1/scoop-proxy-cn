@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hirosystems/clarinet/releases/download/v2.16.0/clarinet-windows-x64.msi",
+      "url": "https://ghfast.top/https://github.com/hirosystems/clarinet/releases/download/v2.16.0/clarinet-windows-x64.msi",
       "hash": "15b31523d041d94cbb4e5785c56a7204f6e397d536419051968457d2ba591ff5"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/hirosystems/clarinet/releases/download/v$version/clarinet-windows-x64.msi"
+        "url": "https://ghfast.top/https://github.com/hirosystems/clarinet/releases/download/v$version/clarinet-windows-x64.msi"
       }
     }
   }

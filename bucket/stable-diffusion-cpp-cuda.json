@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/sd-master-d7c7a34-bin-win-cuda12-x64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/cudart-sd-bin-win-cu12-x64.zip"
+        "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/sd-master-d7c7a34-bin-win-cuda12-x64.zip",
+        "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/cudart-sd-bin-win-cu12-x64.zip"
       ],
       "hash": [
         "c4963e52ce3f7e4325f31ef1a6037107cf0eb3568ff4020cc7b79469329d7347",
@@ -24,8 +24,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/sd-$version-bin-win-cuda12-x64.zip",
-          "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/cudart-sd-bin-win-cu12-x64.zip"
+          "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/sd-$version-bin-win-cuda12-x64.zip",
+          "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/cudart-sd-bin-win-cu12-x64.zip"
         ]
       }
     }

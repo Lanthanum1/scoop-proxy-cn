@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/PCL-Community/PCL2-CE/releases/download/2.10.7/PCL2_CE_x64.exe",
+      "url": "https://ghfast.top/https://github.com/PCL-Community/PCL2-CE/releases/download/2.10.7/PCL2_CE_x64.exe",
       "hash": "76dd9248ee7f86255df128f7ef57358a70b5d6cb1be2b35911ae60b844b010b0",
       "shortcuts": [
         [
@@ -18,7 +18,7 @@
       ]
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/PCL-Community/PCL2-CE/releases/download/2.10.7/PCL2_CE_ARM64.exe",
+      "url": "https://ghfast.top/https://github.com/PCL-Community/PCL2-CE/releases/download/2.10.7/PCL2_CE_ARM64.exe",
       "hash": "c33f9361f83d3e7af44e49fab5b05e419bb9ef709056c9c867e75be21e837731",
       "shortcuts": [
         [
@@ -47,10 +47,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/PCL-Community/PCL2-CE/releases/download/$version/PCL2_CE_x64.exe"
+        "url": "https://ghfast.top/https://github.com/PCL-Community/PCL2-CE/releases/download/$version/PCL2_CE_x64.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/PCL-Community/PCL2-CE/releases/download/$version/PCL2_CE_ARM64.exe"
+        "url": "https://ghfast.top/https://github.com/PCL-Community/PCL2-CE/releases/download/$version/PCL2_CE_ARM64.exe"
       }
     }
   }

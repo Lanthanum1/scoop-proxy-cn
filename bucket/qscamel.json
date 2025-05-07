@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/qingstor/qscamel/releases/download/v2.0.24/qscamel_v2.0.24_windows_amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/qingstor/qscamel/releases/download/v2.0.24/qscamel_v2.0.24_windows_amd64.tar.gz",
       "hash": "3cd62e7654bcd94c497152a1a370e50d167a12b09d7cbe5a68965bbbf47f2d93"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/qingstor/qscamel/releases/download/v2.0.24/qscamel_v2.0.24_windows_i386.tar.gz",
+      "url": "https://ghfast.top/https://github.com/qingstor/qscamel/releases/download/v2.0.24/qscamel_v2.0.24_windows_i386.tar.gz",
       "hash": "bb88a6377a79158d3c397aab9e093a5bbd138a46f3c9cbf96e3467c736b5de9c"
     }
   },
@@ -21,10 +21,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/qingstor/qscamel/releases/download/v$version/qscamel_v$version_windows_amd64.tar.gz"
+        "url": "https://ghfast.top/https://github.com/qingstor/qscamel/releases/download/v$version/qscamel_v$version_windows_amd64.tar.gz"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/qingstor/qscamel/releases/download/v$version/qscamel_v$version_windows_i386.tar.gz"
+        "url": "https://ghfast.top/https://github.com/qingstor/qscamel/releases/download/v$version/qscamel_v$version_windows_i386.tar.gz"
       }
     }
   }

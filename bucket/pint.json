@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.73.6/pint-0.73.6-windows-amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/cloudflare/pint/releases/download/v0.73.6/pint-0.73.6-windows-amd64.tar.gz",
       "hash": "3645e6d04595f370c62913fa3ca191c9bcac828da204772a63d8794a70fa37bb"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.73.6/pint-0.73.6-windows-386.tar.gz",
+      "url": "https://ghfast.top/https://github.com/cloudflare/pint/releases/download/v0.73.6/pint-0.73.6-windows-386.tar.gz",
       "hash": "09ebd51b5ccd8d1b207ac2d6299c5b0ec7ef6d776dd4d9cd7cbb28113fbb2a3f"
     }
   },
@@ -19,10 +19,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v$version/pint-$version-windows-amd64.tar.gz"
+        "url": "https://ghfast.top/https://github.com/cloudflare/pint/releases/download/v$version/pint-$version-windows-amd64.tar.gz"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v$version/pint-$version-windows-386.tar.gz"
+        "url": "https://ghfast.top/https://github.com/cloudflare/pint/releases/download/v$version/pint-$version-windows-386.tar.gz"
       }
     },
     "hash": {

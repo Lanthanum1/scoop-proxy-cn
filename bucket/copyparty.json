@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/9001/copyparty/releases/download/v1.17.0/copyparty.exe",
+      "url": "https://ghfast.top/https://github.com/9001/copyparty/releases/download/v1.17.0/copyparty.exe",
       "hash": "f2eb4202bb36a1894e22a3f3cb6c1d56fbf3a1498a84d5bdb22ca48a13810ae6"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/9001/copyparty/releases/download/v1.17.0/copyparty32.exe#/copyparty.exe",
+      "url": "https://ghfast.top/https://github.com/9001/copyparty/releases/download/v1.17.0/copyparty32.exe#/copyparty.exe",
       "hash": "b872a78ade18aec3523727e351a0819839a75b5ef2ae8abac4007c285eeb757f"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/9001/copyparty/releases/download/v$version/copyparty.exe"
+        "url": "https://ghfast.top/https://github.com/9001/copyparty/releases/download/v$version/copyparty.exe"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/9001/copyparty/releases/download/v$version/copyparty32.exe#/copyparty.exe"
+        "url": "https://ghfast.top/https://github.com/9001/copyparty/releases/download/v$version/copyparty32.exe#/copyparty.exe"
       }
     }
   }

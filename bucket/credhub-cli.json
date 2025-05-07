@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudfoundry/credhub-cli/releases/download/2.9.45/credhub-windows-amd64-2.9.45.tgz",
+      "url": "https://ghfast.top/https://github.com/cloudfoundry/credhub-cli/releases/download/2.9.45/credhub-windows-amd64-2.9.45.tgz",
       "hash": "a639b6bd78c76969bd290264fffeb5d1baa6e6964835f6438a848cf309c5b244"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/cloudfoundry/credhub-cli/releases/download/$version/credhub-windows-amd64-$version.tgz"
+        "url": "https://ghfast.top/https://github.com/cloudfoundry/credhub-cli/releases/download/$version/credhub-windows-amd64-$version.tgz"
       }
     }
   }

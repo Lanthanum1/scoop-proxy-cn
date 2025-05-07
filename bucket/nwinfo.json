@@ -3,7 +3,7 @@
   "description": "A hardware information utility for Windows.",
   "homepage": "https://github.com/a1ive/nwinfo",
   "license": "Unlicense",
-  "url": "https://ghproxy.085404.xyz/https://github.com/a1ive/nwinfo/releases/download/v1.2.0/nwinfo.zip",
+  "url": "https://ghfast.top/https://github.com/a1ive/nwinfo/releases/download/v1.2.0/nwinfo.zip",
   "hash": "15e51a60f1e729ba3f4b828f24d943ed26f9d2c095b0a02865fdf458f991c335",
   "extract_dir": "nwinfo",
   "architecture": {
@@ -23,6 +23,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/a1ive/nwinfo/releases/download/v$version/nwinfo.zip"
+    "url": "https://ghfast.top/https://github.com/a1ive/nwinfo/releases/download/v$version/nwinfo.zip"
   }
 }

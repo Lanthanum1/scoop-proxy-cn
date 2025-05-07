@@ -5,7 +5,7 @@
   "license": "UPL-1.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/oracle/graalpython/releases/download/graal-24.2.1/graalpy-jvm-24.2.1-windows-amd64.zip",
+      "url": "https://ghfast.top/https://github.com/oracle/graalpython/releases/download/graal-24.2.1/graalpy-jvm-24.2.1-windows-amd64.zip",
       "extract_dir": "graalpy-24.2.1-windows-amd64",
       "hash": "02939e1ac13f6d792cc0aae6228129d891a03fca388e01b6db033101dc8aa19a"
     }
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/oracle/graalpython/releases/download/graal-$version/graalpy-jvm-$version-windows-amd64.zip",
+        "url": "https://ghfast.top/https://github.com/oracle/graalpython/releases/download/graal-$version/graalpy-jvm-$version-windows-amd64.zip",
         "extract_dir": "graalpy-$version-windows-amd64"
       }
     },

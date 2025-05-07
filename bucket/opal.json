@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/CodeDead/opal/releases/download/v1.5.0/Opal-win-portable.zip",
+      "url": "https://ghfast.top/https://github.com/CodeDead/opal/releases/download/v1.5.0/Opal-win-portable.zip",
       "hash": "c5fa8d2bea8b347fa38f14f1ae2234e66244551984d3570fa51adae38af87c48"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/CodeDead/opal/releases/download/v$version/Opal-win-portable.zip"
+        "url": "https://ghfast.top/https://github.com/CodeDead/opal/releases/download/v$version/Opal-win-portable.zip"
       }
     }
   }

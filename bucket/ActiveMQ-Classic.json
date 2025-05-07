@@ -7,7 +7,7 @@
   "hash": "sha512:2bde76d462aab6b484d720dd3b3c1846a73dabfbcfb5db0fb89e93b1d7fdc66346a260d7caa8b63f47196258f3f812d96585f90a48d889b50b67bd8ff806002c",
   "extract_dir": "apache-activemq-6.1.6",
   "bin": "bin/activemq.bat",
-  "post_install": "Start-Job -ScriptBlock { Invoke-Expression (new-object net.webclient).downloadstring('https://ghproxy.085404.xyz/https://raw.githubusercontent.com/zhoujin7/tomato/master/scripts/fix-activemq-classic.ps1') } | Out-Null",
+  "post_install": "Start-Job -ScriptBlock { Invoke-Expression (new-object net.webclient).downloadstring('https://ghfast.top/https://raw.githubusercontent.com/zhoujin7/tomato/master/scripts/fix-activemq-classic.ps1') } | Out-Null",
   "suggest": {
     "JDK": [
       "tomcat/oraclejdk8",

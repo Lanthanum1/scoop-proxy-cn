@@ -15,7 +15,7 @@
       "ffmpeg-shared"
     ]
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/mikf/gallery-dl/releases/download/v1.29.6/gallery_dl-1.29.6.tar.gz",
+  "url": "https://ghfast.top/https://github.com/mikf/gallery-dl/releases/download/v1.29.6/gallery_dl-1.29.6.tar.gz",
   "hash": "ba4e0ed52e3f5308b5f33779af510576e3bcb92caa6cc58c3aea4605c581a91e",
   "extract_dir": "gallery_dl-1.29.6",
   "installer": {
@@ -33,7 +33,7 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/mikf/gallery-dl/releases/download/v$version/gallery_dl-$version.tar.gz",
+    "url": "https://ghfast.top/https://github.com/mikf/gallery-dl/releases/download/v$version/gallery_dl-$version.tar.gz",
     "extract_dir": "gallery_dl-$version"
   }
 }

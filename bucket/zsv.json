@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/liquidaty/zsv/releases/download/v0.4.4-alpha/zsv-0.4.4-alpha-amd64-windows-mingw.zip",
+      "url": "https://ghfast.top/https://github.com/liquidaty/zsv/releases/download/v0.4.4-alpha/zsv-0.4.4-alpha-amd64-windows-mingw.zip",
       "hash": "d1e21f4712eda0428ed2ffda8728912f9cf99f4de325609f744c3e4addb5e7bf"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/liquidaty/zsv/releases/download/v$version/zsv-$version-amd64-windows-mingw.zip"
+        "url": "https://ghfast.top/https://github.com/liquidaty/zsv/releases/download/v$version/zsv-$version-amd64-windows-mingw.zip"
       }
     }
   }

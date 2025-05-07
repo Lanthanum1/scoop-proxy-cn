@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/honmaple/maple-file/releases/download/v1.0.8/maple-file-1.0.8-windows-x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/honmaple/maple-file/releases/download/v1.0.8/maple-file-1.0.8-windows-x86_64.zip",
       "hash": "004620ae34473d2265bf25cf5b0ad8ddece12e0ecab3481eeedfdb2facfef288"
     }
   },
@@ -31,7 +31,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/honmaple/maple-file/releases/download/v$version/maple-file-$version-windows-x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/honmaple/maple-file/releases/download/v$version/maple-file-$version-windows-x86_64.zip"
       }
     }
   }

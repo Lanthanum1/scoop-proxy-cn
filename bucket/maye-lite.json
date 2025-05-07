@@ -5,7 +5,7 @@
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/25H/MayeLite/releases/download/12.8.0.250416/MayeLite-12.8.0.250416.zip",
+      "url": "https://ghfast.top/https://github.com/25H/MayeLite/releases/download/12.8.0.250416/MayeLite-12.8.0.250416.zip",
       "hash": "a4a23828d6e9a0203785cc82797af2ca66da5f00679c54738a63cb0d35d534ff"
     }
   },
@@ -37,7 +37,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/25H/MayeLite/releases/download/$version/MayeLite-$version.zip"
+        "url": "https://ghfast.top/https://github.com/25H/MayeLite/releases/download/$version/MayeLite-$version.zip"
       }
     }
   }

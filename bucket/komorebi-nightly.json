@@ -13,11 +13,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-x86_64-pc-windows-msvc.zip",
       "hash": "ebf221660f6729327b920b7e162fcf3066f4f5a52f7b63fa4aad3329af9e1ad7"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-aarch64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-aarch64-pc-windows-msvc.zip",
       "hash": "85f130f846ab7fa3bc1f2080c024cc1e09ac0c034e655c164da2af8fd3caaace"
     }
   },
@@ -36,10 +36,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-x86_64-pc-windows-msvc.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-aarch64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/LGUG2Z/komorebi/releases/download/nightly/komorebi-nightly-aarch64-pc-windows-msvc.zip"
       }
     },
     "hash": {

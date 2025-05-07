@@ -5,15 +5,15 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows10-x86_64.exe",
+      "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows10-x86_64.exe",
       "hash": "b5bf537d728968b90305509c99a62ed2060c8eda13ba132568e68cdcf5a0d85d"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows-x86.exe",
+      "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows-x86.exe",
       "hash": "877b01983c24ab294b5831fe9d807e594f83e68e3d05e78451c2b1da010c37bb"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows10-arm64.exe",
+      "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v3.17.6/FortFirewall-3.17.6-windows10-arm64.exe",
       "hash": "c17d6414fdd38195bd9ca84d451c0f4795f65a4d22ca6f2cac1906bf536a8fcc"
     }
   },
@@ -51,13 +51,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows10-x86_64.exe"
+        "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows10-x86_64.exe"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows-x86.exe"
+        "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows-x86.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows10-arm64.exe"
+        "url": "https://ghfast.top/https://github.com/tnodir/fort/releases/download/v$version/FortFirewall-$version-windows10-arm64.exe"
       }
     }
   }

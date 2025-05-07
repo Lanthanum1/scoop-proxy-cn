@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/shader-slang/slang/releases/download/v2025.7.1/slang-2025.7.1-windows-x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/shader-slang/slang/releases/download/v2025.7.1/slang-2025.7.1-windows-x86_64.zip",
       "hash": "4e534c3c080422783396b6c34692360e883cb793b9b316586c457ec7f29a8eda"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/shader-slang/slang/releases/download/v2025.7.1/slang-2025.7.1-windows-aarch64.zip",
+      "url": "https://ghfast.top/https://github.com/shader-slang/slang/releases/download/v2025.7.1/slang-2025.7.1-windows-aarch64.zip",
       "hash": "6205a72a8688de09763703239539021e053ac2c97f1472f79a57010f92160b16"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-x86_64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-aarch64.zip"
+        "url": "https://ghfast.top/https://github.com/shader-slang/slang/releases/download/v$version/slang-$version-windows-aarch64.zip"
       }
     }
   }

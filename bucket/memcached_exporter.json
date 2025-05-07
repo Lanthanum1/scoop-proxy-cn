@@ -5,12 +5,12 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/prometheus/memcached_exporter/releases/download/v0.15.2/memcached_exporter-0.15.2.windows-amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/prometheus/memcached_exporter/releases/download/v0.15.2/memcached_exporter-0.15.2.windows-amd64.tar.gz",
       "hash": "f3245d88a622eabafa68978e557b0664db0048073f72b64139b44cc0d500f7c5",
       "extract_dir": "memcached_exporter-0.15.2.windows-amd64"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/prometheus/memcached_exporter/releases/download/v0.15.2/memcached_exporter-0.15.2.windows-386.tar.gz",
+      "url": "https://ghfast.top/https://github.com/prometheus/memcached_exporter/releases/download/v0.15.2/memcached_exporter-0.15.2.windows-386.tar.gz",
       "hash": "e436ecbe1e68521f9ea82a469e5f7e8b8bf17ecdc7ab2dc6e958b041076b005b",
       "extract_dir": "memcached_exporter-0.15.2.windows-386"
     }
@@ -20,11 +20,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-amd64.tar.gz",
+        "url": "https://ghfast.top/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-amd64.tar.gz",
         "extract_dir": "memcached_exporter-$version.windows-amd64"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-386.tar.gz",
+        "url": "https://ghfast.top/https://github.com/prometheus/memcached_exporter/releases/download/v$version/memcached_exporter-$version.windows-386.tar.gz",
         "extract_dir": "memcached_exporter-$version.windows-386"
       }
     },

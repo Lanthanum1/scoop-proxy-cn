@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/projectdiscovery/cdncheck/releases/download/v1.1.17/cdncheck_1.1.17_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/projectdiscovery/cdncheck/releases/download/v1.1.17/cdncheck_1.1.17_windows_amd64.zip",
       "hash": "f247315fc6f3f988d0e1123b6b9b22f883acd038a4079e6bf7aecb105300bcce"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/projectdiscovery/cdncheck/releases/download/v1.1.17/cdncheck_1.1.17_windows_386.zip",
+      "url": "https://ghfast.top/https://github.com/projectdiscovery/cdncheck/releases/download/v1.1.17/cdncheck_1.1.17_windows_386.zip",
       "hash": "b0d109fcca942fa22439935c4d995ce18ca723e5bc04918a64ea2e8d926f0dc5"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_386.zip"
+        "url": "https://ghfast.top/https://github.com/projectdiscovery/cdncheck/releases/download/v$version/cdncheck_$version_windows_386.zip"
       }
     },
     "hash": {

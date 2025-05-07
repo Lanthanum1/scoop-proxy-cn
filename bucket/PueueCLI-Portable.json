@@ -6,7 +6,7 @@
   "changelog": "https://github.com/Nukesor/pueue/releases",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Nukesor/pueue/releases/download/v4.0.0/pueue-x86_64-pc-windows-msvc.exe#/pueue.exe",
+      "url": "https://ghfast.top/https://github.com/Nukesor/pueue/releases/download/v4.0.0/pueue-x86_64-pc-windows-msvc.exe#/pueue.exe",
       "hash": "bb28093d99b2f38bd387c2b29aaa02d99df423a88dc9cec91a2754bf85e1b3d4"
     }
   },
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Nukesor/pueue/releases/download/v$version/pueue-x86_64-pc-windows-msvc.exe#/pueue.exe"
+        "url": "https://ghfast.top/https://github.com/Nukesor/pueue/releases/download/v$version/pueue-x86_64-pc-windows-msvc.exe#/pueue.exe"
       }
     }
   }

@@ -5,11 +5,11 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/ipio/releases/download/v20250203/ipio_windows_amd64.exe#/ipio.exe",
+      "url": "https://ghfast.top/https://github.com/txthinking/ipio/releases/download/v20250203/ipio_windows_amd64.exe#/ipio.exe",
       "hash": "430fb6313da6d5943c5f808f8f64b890f6efb9da9b8d9f85779f0ef84a90c09d"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/ipio/releases/download/v20250203/ipio_windows_arm64.exe#/ipio.exe",
+      "url": "https://ghfast.top/https://github.com/txthinking/ipio/releases/download/v20250203/ipio_windows_arm64.exe#/ipio.exe",
       "hash": "398e218f2d3bf6e7dd11b8c2abd5e6d5b6c20752ec61a679fb61ee86bb000b6b"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/ipio/releases/download/v$version/ipio_windows_amd64.exe#/ipio.exe"
+        "url": "https://ghfast.top/https://github.com/txthinking/ipio/releases/download/v$version/ipio_windows_amd64.exe#/ipio.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/ipio/releases/download/v$version/ipio_windows_arm64.exe#/ipio.exe"
+        "url": "https://ghfast.top/https://github.com/txthinking/ipio/releases/download/v$version/ipio_windows_arm64.exe#/ipio.exe"
       }
     }
   }

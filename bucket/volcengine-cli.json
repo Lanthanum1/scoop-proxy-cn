@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_amd64.zip",
       "hash": "86089c4f2e5f17c833b8a016995c921e1adb2890f6059999efe8bf7d4786c2f4"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_386.zip",
+      "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_386.zip",
       "hash": "e306084b46ee4bf7954e67f7624c2c5e154d12374d1652cc95386f7c6e6929d4"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v1.0.30/volcengine-cli_1.0.30_windows_arm64.zip",
       "hash": "ce0da012bb72ea7752417fe55ce20b76e32013f40036d10e3c60f3216f2eb678"
     }
   },
@@ -24,13 +24,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_386.zip"
+        "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_386.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/volcengine/volcengine-cli/releases/download/v$version/volcengine-cli_$version_windows_arm64.zip"
       }
     },
     "hash": {

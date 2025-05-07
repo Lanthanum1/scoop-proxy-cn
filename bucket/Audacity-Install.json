@@ -6,11 +6,11 @@
   "changelog": "https://wiki.audacityteam.org/wiki/Audacity_Versions",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-64bit.exe#/setup.exe",
+      "url": "https://ghfast.top/https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-64bit.exe#/setup.exe",
       "hash": "82abda13ca234b9c11361501a4cb2191a2c10cb28c181e42952b3ff0d8f6d41a"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-32bit.exe#/setup.exe",
+      "url": "https://ghfast.top/https://github.com/audacity/audacity/releases/download/Audacity-3.7.3/audacity-win-3.7.3-32bit.exe#/setup.exe",
       "hash": "d0bc10fb9689e6954f5bb9d6006c7f1af37627ed215aab8ed294820a36e00a01"
     }
   },
@@ -55,10 +55,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-64bit.exe#/setup.exe"
+        "url": "https://ghfast.top/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-64bit.exe#/setup.exe"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-32bit.exe#/setup.exe"
+        "url": "https://ghfast.top/https://github.com/audacity/audacity/releases/download/Audacity-$version/audacity-win-$version-32bit.exe#/setup.exe"
       }
     }
   }

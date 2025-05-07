@@ -6,9 +6,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIExtract_NE_A71_win64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIFind_NE_A71_win64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFITool_NE_A71_win64.zip"
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIExtract_NE_A71_win64.zip",
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIFind_NE_A71_win64.zip",
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFITool_NE_A71_win64.zip"
       ],
       "hash": [
         "58414048c86135a1639eef79afac9893eaaba84778596593f7f64d1e9dd98b69",
@@ -18,9 +18,9 @@
     },
     "32bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIExtract_NE_A71_win32.zip",
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIFind_NE_A71_win32.zip",
-        "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFITool_NE_A71_win32.zip"
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIExtract_NE_A71_win32.zip",
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFIFind_NE_A71_win32.zip",
+        "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/A71/UEFITool_NE_A71_win32.zip"
       ],
       "hash": [
         "79eedc1412227861a21e0e59f5568bbafb5109eb88bb98e9fb9c1aa15a972720",
@@ -46,16 +46,16 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win64.zip",
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win64.zip",
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win64.zip",
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win64.zip",
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
         ]
       },
       "32bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win32.zip",
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win32.zip",
-          "https://ghproxy.085404.xyz/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIExtract_NE_$version_win32.zip",
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFIFind_NE_$version_win32.zip",
+          "https://ghfast.top/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
         ]
       }
     }

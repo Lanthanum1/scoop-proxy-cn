@@ -5,12 +5,12 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v1.9.0/elasticsearch_exporter-1.9.0.windows-amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v1.9.0/elasticsearch_exporter-1.9.0.windows-amd64.tar.gz",
       "hash": "92c84cec6e7fefbef2a7583f6c4f70c81fe05dfaa0485cc62078b3c0b47255ff",
       "extract_dir": "elasticsearch_exporter-1.9.0.windows-amd64"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v1.9.0/elasticsearch_exporter-1.9.0.windows-386.tar.gz",
+      "url": "https://ghfast.top/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v1.9.0/elasticsearch_exporter-1.9.0.windows-386.tar.gz",
       "hash": "00ce4a66458a91d5b3ac1bd73d8c47292dedbdf3b93fedb7d564fb9cf8db5535",
       "extract_dir": "elasticsearch_exporter-1.9.0.windows-386"
     }
@@ -20,11 +20,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v$version/elasticsearch_exporter-$version.windows-amd64.tar.gz",
+        "url": "https://ghfast.top/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v$version/elasticsearch_exporter-$version.windows-amd64.tar.gz",
         "extract_dir": "elasticsearch_exporter-$version.windows-amd64"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v$version/elasticsearch_exporter-$version.windows-386.tar.gz",
+        "url": "https://ghfast.top/https://github.com/justwatchcom/elasticsearch_exporter/releases/download/v$version/elasticsearch_exporter-$version.windows-386.tar.gz",
         "extract_dir": "elasticsearch_exporter-$version.windows-386"
       }
     },

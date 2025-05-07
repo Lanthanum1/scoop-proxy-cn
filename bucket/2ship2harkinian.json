@@ -10,7 +10,7 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/HarbourMasters/2ship2harkinian/releases/download/1.1.2/2Ship-Satoko-Charlie-Win64.zip",
+      "url": "https://ghfast.top/https://github.com/HarbourMasters/2ship2harkinian/releases/download/1.1.2/2Ship-Satoko-Charlie-Win64.zip",
       "hash": "7bc9415f4c633f32d5135d95a40d9d66e484a39a72a9c9833b1e04fb798c3435"
     }
   },
@@ -55,7 +55,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/HarbourMasters/2ship2harkinian/releases/download/$version/2Ship-$matchMajorname-$matchMinorname-Win64.zip"
+        "url": "https://ghfast.top/https://github.com/HarbourMasters/2ship2harkinian/releases/download/$version/2Ship-$matchMajorname-$matchMinorname-Win64.zip"
       }
     }
   }

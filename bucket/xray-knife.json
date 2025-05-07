@@ -6,7 +6,7 @@
   "notes": "",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/lilendian0x00/xray-knife/releases/download/v3.20.45/Xray-knife-windows-64.zip",
+      "url": "https://ghfast.top/https://github.com/lilendian0x00/xray-knife/releases/download/v3.20.45/Xray-knife-windows-64.zip",
       "hash": "4eb5b2b8066f63d085e794322025b3a09afddbc4a389c7c374aa7e7a3ce44c04"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/lilendian0x00/xray-knife/releases/download/v$version/Xray-knife-windows-64.zip"
+        "url": "https://ghfast.top/https://github.com/lilendian0x00/xray-knife/releases/download/v$version/Xray-knife-windows-64.zip"
       }
     }
   },

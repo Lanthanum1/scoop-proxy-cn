@@ -9,11 +9,11 @@
   "architecture": {
     "64bit": {
       "pre_install": "Get-ChildItem \"$dir\" 'QSVEncC64.exe' | Select-Object -First 1 | Rename-Item -NewName 'QSVEncC.exe'",
-      "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/QSVEnc/releases/download/7.89/QSVEncC_7.89_x64.7z",
+      "url": "https://ghfast.top/https://github.com/rigaya/QSVEnc/releases/download/7.89/QSVEncC_7.89_x64.7z",
       "hash": "5f41893d194c34a81acd4bfe9eec3db3f0228df2a6d8c0e5f3aea39760e29b58"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/QSVEnc/releases/download/7.89/QSVEncC_7.89_Win32.7z",
+      "url": "https://ghfast.top/https://github.com/rigaya/QSVEnc/releases/download/7.89/QSVEncC_7.89_Win32.7z",
       "hash": "1524d66b15f34a63965c881fa5ad925dbd3e71f7f4086c2f28dd4e3ea4326733"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_x64.7z"
+        "url": "https://ghfast.top/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_x64.7z"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_Win32.7z"
+        "url": "https://ghfast.top/https://github.com/rigaya/QSVEnc/releases/download/$version/QSVEncC_$version_Win32.7z"
       }
     }
   }

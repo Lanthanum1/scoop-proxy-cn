@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/anchordotdev/cli/releases/download/v0.1.11/anchor_Windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/anchordotdev/cli/releases/download/v0.1.11/anchor_Windows_x86_64.zip",
       "extract_dir": "anchor_Windows_x86_64",
       "hash": "c00d26233ca52b0eac2a22386517b1711334c5ea727a3846a8806db27d14dd3c"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/anchordotdev/cli/releases/download/v0.1.11/anchor_Windows_i386.zip",
+      "url": "https://ghfast.top/https://github.com/anchordotdev/cli/releases/download/v0.1.11/anchor_Windows_i386.zip",
       "extract_dir": "anchor_Windows_i386",
       "hash": "cf324f474c77d97f7e867a3fcc79b97a51b2b76748a62b03aefe83554ee58180"
     }
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/anchordotdev/cli/releases/download/v$version/anchor_Windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/anchordotdev/cli/releases/download/v$version/anchor_Windows_x86_64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/anchordotdev/cli/releases/download/v$version/anchor_Windows_i386.zip"
+        "url": "https://ghfast.top/https://github.com/anchordotdev/cli/releases/download/v$version/anchor_Windows_i386.zip"
       }
     },
     "hash": {

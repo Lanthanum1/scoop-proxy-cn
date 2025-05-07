@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tablacus/TablacusExplorer/releases/download/25.5.4/te250504.zip",
+      "url": "https://ghfast.top/https://github.com/tablacus/TablacusExplorer/releases/download/25.5.4/te250504.zip",
       "hash": "a01fcc3434f5f68aa1db8a7ce4caf6c702c2bd0283dd73bb41ce3ac42f6a1340",
       "bin": [
         [
@@ -21,7 +21,7 @@
       ]
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tablacus/TablacusExplorer/releases/download/25.5.4/te250504.zip",
+      "url": "https://ghfast.top/https://github.com/tablacus/TablacusExplorer/releases/download/25.5.4/te250504.zip",
       "hash": "a01fcc3434f5f68aa1db8a7ce4caf6c702c2bd0283dd73bb41ce3ac42f6a1340",
       "bin": [
         [
@@ -47,6 +47,6 @@
     "regex": "/releases/download/([\\d.]+)/te(?<date>\\d+).zip\""
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/tablacus/TablacusExplorer/releases/download/$version/te$matchDate.zip"
+    "url": "https://ghfast.top/https://github.com/tablacus/TablacusExplorer/releases/download/$version/te$matchDate.zip"
   }
 }

@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/localstack/localstack-cli/releases/download/v4.3.0/localstack-cli-4.3.0-windows-amd64-onefile.zip",
+      "url": "https://ghfast.top/https://github.com/localstack/localstack-cli/releases/download/v4.3.0/localstack-cli-4.3.0-windows-amd64-onefile.zip",
       "hash": "0fc46c3a9c763a846b28794fd2e8a38702e25e7562440a390ecb0d6a5abbab1d"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/localstack/localstack-cli/releases/download/v$version/localstack-cli-$matchHead-windows-amd64-onefile.zip"
+        "url": "https://ghfast.top/https://github.com/localstack/localstack-cli/releases/download/v$version/localstack-cli-$matchHead-windows-amd64-onefile.zip"
       }
     },
     "hash": {

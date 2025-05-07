@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/LucasPickering/slumber/releases/download/v3.1.1/slumber-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/LucasPickering/slumber/releases/download/v3.1.1/slumber-x86_64-pc-windows-msvc.zip",
       "hash": "1134df39234a56aa27ceddb9bb101dd44e871dd9d2da753be1c604573e999da0"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/LucasPickering/slumber/releases/download/v$version/slumber-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/LucasPickering/slumber/releases/download/v$version/slumber-x86_64-pc-windows-msvc.zip"
       }
     },
     "hash": {

@@ -7,7 +7,7 @@
   "hash": "192fe79d0343b5b0a9d45fd3151c4b948a40d61aea8d16bca51ad50f151b8c1a",
   "bin": "bstrings.exe",
   "checkver": {
-    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
     "regex": "bstrings.*?\\[([\\d.]+)\\]"
   },
   "autoupdate": {

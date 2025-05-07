@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwok-windows-amd64.exe#/kwok.exe",
-        "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwokctl-windows-amd64.exe#/kwokctl.exe"
+        "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwok-windows-amd64.exe#/kwok.exe",
+        "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwokctl-windows-amd64.exe#/kwokctl.exe"
       ],
       "hash": [
         "3771377b85fd57a3848a528d99a4574bc9ab5d28c31fa159983bce80d528a513",
@@ -16,8 +16,8 @@
     },
     "arm64": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwok-windows-arm64.exe#/kwok.exe",
-        "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwokctl-windows-arm64.exe#/kwokctl.exe"
+        "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwok-windows-arm64.exe#/kwok.exe",
+        "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v0.6.1/kwokctl-windows-arm64.exe#/kwokctl.exe"
       ],
       "hash": [
         "f9674cb0858b8b754464b82d27a7c1c15d5abc231909330b7fcd52285da19167",
@@ -36,14 +36,14 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-amd64.exe#/kwok.exe",
-          "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-amd64.exe#/kwokctl.exe"
+          "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-amd64.exe#/kwok.exe",
+          "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-amd64.exe#/kwokctl.exe"
         ]
       },
       "arm64": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-arm64.exe#/kwok.exe",
-          "https://ghproxy.085404.xyz/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-arm64.exe#/kwokctl.exe"
+          "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwok-windows-arm64.exe#/kwok.exe",
+          "https://ghfast.top/https://github.com/kubernetes-sigs/kwok/releases/download/v$version/kwokctl-windows-arm64.exe#/kwokctl.exe"
         ]
       }
     }

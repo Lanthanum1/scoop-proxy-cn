@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/buildkite/cli/releases/download/v3.8.0/bk_3.8.0_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/buildkite/cli/releases/download/v3.8.0/bk_3.8.0_windows_amd64.zip",
       "hash": "78247c0cc6484f19c096808d93230dd78e3269362de115bca62962066a0e0c68"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/buildkite/cli/releases/download/v3.8.0/bk_3.8.0_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/buildkite/cli/releases/download/v3.8.0/bk_3.8.0_windows_arm64.zip",
       "hash": "bb7be75f2f0c7e15d78a90c161800a01eca01686e99000dc2ede8e6cae3554c2"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/buildkite/cli/releases/download/v$version/bk_$version_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/buildkite/cli/releases/download/v$version/bk_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/buildkite/cli/releases/download/v$version/bk_$version_windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/buildkite/cli/releases/download/v$version/bk_$version_windows_arm64.zip"
       }
     },
     "hash": {

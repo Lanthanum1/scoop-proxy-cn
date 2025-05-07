@@ -6,7 +6,7 @@
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.7/stream_music_1.3.7.3.msix#/stream_music.msix",
+      "url": "https://ghfast.top/https://github.com/gitbobobo/StreamMusic/releases/download/v1.3.7/stream_music_1.3.7.3.msix#/stream_music.msix",
       "hash": "e27cddc914c5e9b030693a2b38bbf06ea615a303226119e583b143602dfd51cc"
     }
   },
@@ -33,7 +33,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/gitbobobo/StreamMusic/releases/download/v$version/stream_music_$matchFull.msix#/stream_music.msix"
+        "url": "https://ghfast.top/https://github.com/gitbobobo/StreamMusic/releases/download/v$version/stream_music_$matchFull.msix#/stream_music.msix"
       }
     }
   }

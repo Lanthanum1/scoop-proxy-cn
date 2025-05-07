@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/argoproj/argo-rollouts/releases/download/v1.8.2/kubectl-argo-rollouts-windows-amd64#/kubectl-argo-rollouts.exe",
+      "url": "https://ghfast.top/https://github.com/argoproj/argo-rollouts/releases/download/v1.8.2/kubectl-argo-rollouts-windows-amd64#/kubectl-argo-rollouts.exe",
       "hash": "91a4b50407eee0e448b9ddfae6ad2aa9ecc542638ac5053760eae413e41e5244"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/argoproj/argo-rollouts/releases/download/v$version/kubectl-argo-rollouts-windows-amd64#/kubectl-argo-rollouts.exe"
+        "url": "https://ghfast.top/https://github.com/argoproj/argo-rollouts/releases/download/v$version/kubectl-argo-rollouts-windows-amd64#/kubectl-argo-rollouts.exe"
       }
     }
   }

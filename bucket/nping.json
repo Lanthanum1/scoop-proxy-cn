@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hanshuaikang/Nping/releases/download/v0.3.1/nping-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/hanshuaikang/Nping/releases/download/v0.3.1/nping-x86_64-pc-windows-msvc.zip",
       "hash": "3193244e63bc57dc0782a8f33703f980c003ace21ec326308394f25fcbbb08af"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/hanshuaikang/Nping/releases/download/v$version/nping-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/hanshuaikang/Nping/releases/download/v$version/nping-x86_64-pc-windows-msvc.zip"
       }
     }
   }

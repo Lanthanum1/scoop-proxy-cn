@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/radioactiveAHM/DnsSafeguard/releases/download/v1.9.0/DnsSafeguard-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/radioactiveAHM/DnsSafeguard/releases/download/v1.9.0/DnsSafeguard-x86_64-pc-windows-msvc.zip",
       "hash": "1c865f60031eefd698e1fa22abf725bc3f7c6ae3272b8b620c93e85b7d28edde"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/radioactiveAHM/DnsSafeguard/releases/download/v$version/DnsSafeguard-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/radioactiveAHM/DnsSafeguard/releases/download/v$version/DnsSafeguard-x86_64-pc-windows-msvc.zip"
       }
     }
   }

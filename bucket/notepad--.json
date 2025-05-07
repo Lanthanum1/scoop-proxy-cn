@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v3.2/Notepad--v3.2.0-win10-portable.zip",
+      "url": "https://ghfast.top/https://github.com/cxasm/notepad--/releases/download/notepad-v3.2/Notepad--v3.2.0-win10-portable.zip",
       "hash": "f53ec3f997145a8bf62ab7d15df387cdd5dddd51617e02b8e556eeeb16f6f7e5",
       "pre_install": [
         "Move-Item \"$dir\\notepad--v$version-win10-portable\\*\" \"$dir\"",
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/cxasm/notepad--/releases/download/notepad-v$majorVersion.$minorVersion/Notepad--v$version-win10-portable.zip"
+        "url": "https://ghfast.top/https://github.com/cxasm/notepad--/releases/download/notepad-v$majorVersion.$minorVersion/Notepad--v$version-win10-portable.zip"
       }
     }
   }

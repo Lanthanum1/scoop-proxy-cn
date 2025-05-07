@@ -3,7 +3,7 @@
   "description": "A tool for installing / updating the NS simulator",
   "license": "AGPL-3.0-only",
   "version": "0.5.3",
-  "url": "https://ghproxy.085404.xyz/https://github.com/triwinds/ns-emu-tools/releases/download/0.5.3/NsEmuTools.exe",
+  "url": "https://ghfast.top/https://github.com/triwinds/ns-emu-tools/releases/download/0.5.3/NsEmuTools.exe",
   "hash": "3f38b7cfebfc8e5153a663dc9c37551702e71886680df1973edac681f45816e9",
   "shortcuts": [
     [
@@ -57,6 +57,6 @@
   "persist": "config.json",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/triwinds/ns-emu-tools/releases/download/$version/NsEmuTools.exe"
+    "url": "https://ghfast.top/https://github.com/triwinds/ns-emu-tools/releases/download/$version/NsEmuTools.exe"
   }
 }

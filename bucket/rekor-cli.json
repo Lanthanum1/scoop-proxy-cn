@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sigstore/rekor/releases/download/v1.3.10/rekor-cli-windows-amd64.exe#/rekor-cli.exe",
+      "url": "https://ghfast.top/https://github.com/sigstore/rekor/releases/download/v1.3.10/rekor-cli-windows-amd64.exe#/rekor-cli.exe",
       "hash": "ebdfc385443bc3de93b0fe12f28c9afb07816eb1be11766955cfe3f69fa5e958"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sigstore/rekor/releases/download/v$version/rekor-cli-windows-amd64.exe#/rekor-cli.exe"
+        "url": "https://ghfast.top/https://github.com/sigstore/rekor/releases/download/v$version/rekor-cli-windows-amd64.exe#/rekor-cli.exe"
       }
     },
     "hash": {

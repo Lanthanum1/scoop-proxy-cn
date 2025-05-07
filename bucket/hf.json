@@ -5,12 +5,12 @@
   "license": "Apache-2.0|MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sorairolake/hf/releases/download/v0.4.0/hf-v0.4.0-x86_64-pc-windows-msvc.7z",
+      "url": "https://ghfast.top/https://github.com/sorairolake/hf/releases/download/v0.4.0/hf-v0.4.0-x86_64-pc-windows-msvc.7z",
       "hash": "4b198f49aad6fa5fe9effbd505b10bc290c39004e6f2195c628806bcbb237fea",
       "extract_dir": "hf-v0.4.0-x86_64-pc-windows-msvc"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sorairolake/hf/releases/download/v0.4.0/hf-v0.4.0-aarch64-pc-windows-msvc.7z",
+      "url": "https://ghfast.top/https://github.com/sorairolake/hf/releases/download/v0.4.0/hf-v0.4.0-aarch64-pc-windows-msvc.7z",
       "hash": "a2562dd73d9802132d4dfc489b8720de15fef4d0a9823480a73a478d6775c9cf",
       "extract_dir": "hf-v0.4.0-aarch64-pc-windows-msvc"
     }
@@ -22,11 +22,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sorairolake/hf/releases/download/v$version/hf-v$version-x86_64-pc-windows-msvc.7z",
+        "url": "https://ghfast.top/https://github.com/sorairolake/hf/releases/download/v$version/hf-v$version-x86_64-pc-windows-msvc.7z",
         "extract_dir": "hf-v$version-x86_64-pc-windows-msvc"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sorairolake/hf/releases/download/v$version/hf-v$version-aarch64-pc-windows-msvc.7z",
+        "url": "https://ghfast.top/https://github.com/sorairolake/hf/releases/download/v$version/hf-v$version-aarch64-pc-windows-msvc.7z",
         "extract_dir": "hf-v$version-aarch64-pc-windows-msvc"
       }
     },

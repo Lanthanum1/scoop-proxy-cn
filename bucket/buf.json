@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bufbuild/buf/releases/download/v1.53.0/buf-Windows-x86_64.exe#/buf.exe",
+      "url": "https://ghfast.top/https://github.com/bufbuild/buf/releases/download/v1.53.0/buf-Windows-x86_64.exe#/buf.exe",
       "hash": "deb83674f53b5d292ab1f461919410f5f54a507d34ac6bef69ff784e301ff234"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/bufbuild/buf/releases/download/v$version/buf-Windows-x86_64.exe#/buf.exe"
+        "url": "https://ghfast.top/https://github.com/bufbuild/buf/releases/download/v$version/buf-Windows-x86_64.exe#/buf.exe"
       }
     },
     "hash": {

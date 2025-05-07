@@ -9,11 +9,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/WinMerge/winmerge/releases/download/v2.16.48.2/winmerge-2.16.48.2-x64-exe.zip",
+      "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v2.16.48.2/winmerge-2.16.48.2-x64-exe.zip",
       "hash": "1c87bae8cf1af3612a905fd6ceb86a02ce25f8acc44a21b8356b26e9f8567ef2"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/WinMerge/winmerge/releases/download/v2.16.48.2/winmerge-2.16.48.2-exe.zip",
+      "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v2.16.48.2/winmerge-2.16.48.2-exe.zip",
       "hash": "5381cd226c3640c8244e2f2ede8ab12dbd79de135a1e474909ffdbc40dcc1962"
     }
   },
@@ -31,10 +31,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-x64-exe.zip"
+        "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-x64-exe.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-exe.zip"
+        "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-exe.zip"
       }
     }
   }

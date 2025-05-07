@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/putyy/res-downloader/releases/download/3.0.5/res-downloader_3.0.5_win_amd64.exe",
+      "url": "https://ghfast.top/https://github.com/putyy/res-downloader/releases/download/3.0.5/res-downloader_3.0.5_win_amd64.exe",
       "hash": "b2a8e79a67e795f219d3e0670fac3a951519ea09db697631c31c7c3bbd9342ae"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/putyy/res-downloader/releases/download/3.0.5/res-downloader_3.0.5_win_arm64.exe",
+      "url": "https://ghfast.top/https://github.com/putyy/res-downloader/releases/download/3.0.5/res-downloader_3.0.5_win_arm64.exe",
       "hash": "0ceddf428bfca0169977dab2467dd5e5535ed03e23dbe552a3e9e36a111ccad1"
     }
   },
@@ -45,10 +45,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/putyy/res-downloader/releases/download/$version/res-downloader_$version_win_amd64.exe"
+        "url": "https://ghfast.top/https://github.com/putyy/res-downloader/releases/download/$version/res-downloader_$version_win_amd64.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/putyy/res-downloader/releases/download/$version/res-downloader_$version_win_arm64.exe"
+        "url": "https://ghfast.top/https://github.com/putyy/res-downloader/releases/download/$version/res-downloader_$version_win_arm64.exe"
       }
     }
   }

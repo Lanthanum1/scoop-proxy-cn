@@ -7,7 +7,7 @@
   "hash": "e37b32aee6b7bf94c35f463be7c4939db06198eabd553c26ce02223ceee83dba",
   "bin": "AppCompatCacheParser.exe",
   "checkver": {
-    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
     "regex": "AppCompatCacheParser.*?\\[([\\d.]+)\\]"
   },
   "autoupdate": {

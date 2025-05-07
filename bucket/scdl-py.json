@@ -10,7 +10,7 @@
       "ffmpeg-nightly"
     ]
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/flyingrub/scdl/archive/master.zip",
+  "url": "https://ghfast.top/https://github.com/flyingrub/scdl/archive/master.zip",
   "hash": "834bf9cb2898607638a9dddd91d790128663249cbf7d8ee96a3604017156da22",
   "extract_dir": "scdl-master",
   "installer": {
@@ -32,6 +32,6 @@
     "replace": "$1$2.$3.$4"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/flyingrub/scdl/archive/master.zip"
+    "url": "https://ghfast.top/https://github.com/flyingrub/scdl/archive/master.zip"
   }
 }

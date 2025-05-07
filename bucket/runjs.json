@@ -3,7 +3,7 @@
   "homepage": "https://runjs.dev/",
   "license": "Freeware",
   "description": "A JavaScript playground that auto-evaluates as you type.",
-  "url": "https://ghproxy.085404.xyz/https://github.com/lukehaas/RunJS/releases/download/v3.1.1/RunJS-Setup-3.1.1.exe#/dl.7z",
+  "url": "https://ghfast.top/https://github.com/lukehaas/RunJS/releases/download/v3.1.1/RunJS-Setup-3.1.1.exe#/dl.7z",
   "hash": "b32b38b31c670b041ff290c90c1e079e746b0b5a29ceef295aa88188de7f43ef",
   "pre_install": [
     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
@@ -21,6 +21,6 @@
     "regex": "tag/v([\\w.-]+)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/lukehaas/RunJS/releases/download/v$version/RunJS-Setup-$version.exe#/dl.7z"
+    "url": "https://ghfast.top/https://github.com/lukehaas/RunJS/releases/download/v$version/RunJS-Setup-$version.exe#/dl.7z"
   }
 }

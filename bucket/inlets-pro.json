@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/inlets/inlets-pro/releases/download/0.10.3/inlets-pro.exe",
+      "url": "https://ghfast.top/https://github.com/inlets/inlets-pro/releases/download/0.10.3/inlets-pro.exe",
       "hash": "fb84801370dd056451abb425073a423efca21ea93a3ecc9ae6fe98b614b229ea"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/inlets/inlets-pro/releases/download/$version/inlets-pro.exe"
+        "url": "https://ghfast.top/https://github.com/inlets/inlets-pro/releases/download/$version/inlets-pro.exe"
       }
     },
     "hash": {

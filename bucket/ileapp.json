@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/abrignoni/iLEAPP/releases/download/v2.1.3/ileapp-v2.1.3-Windows.zip",
-        "https://ghproxy.085404.xyz/https://github.com/abrignoni/iLEAPP/releases/download/v2.1.3/ileappGUI-v2.1.3-Windows.zip"
+        "https://ghfast.top/https://github.com/abrignoni/iLEAPP/releases/download/v2.1.3/ileapp-v2.1.3-Windows.zip",
+        "https://ghfast.top/https://github.com/abrignoni/iLEAPP/releases/download/v2.1.3/ileappGUI-v2.1.3-Windows.zip"
       ],
       "hash": [
         "185b6761f5ffb7fbefbf73cf4dbf87a4433fcc8e14e2e0967bf2039e0b772133",
@@ -27,8 +27,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/abrignoni/iLEAPP/releases/download/v$version/ileapp-v$version-Windows.zip",
-          "https://ghproxy.085404.xyz/https://github.com/abrignoni/iLEAPP/releases/download/v$version/ileappGUI-v$version-Windows.zip"
+          "https://ghfast.top/https://github.com/abrignoni/iLEAPP/releases/download/v$version/ileapp-v$version-Windows.zip",
+          "https://ghfast.top/https://github.com/abrignoni/iLEAPP/releases/download/v$version/ileappGUI-v$version-Windows.zip"
         ]
       }
     }

@@ -10,7 +10,7 @@
       "java/openjdk"
     ]
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/ReaJason/MemShellParty/releases/download/v1.7.0/boot-1.7.0.jar",
+  "url": "https://ghfast.top/https://github.com/ReaJason/MemShellParty/releases/download/v1.7.0/boot-1.7.0.jar",
   "hash": "eaf186605b7bf882a8b40afecf18d72efdb9a4e67e2992641939658d70c3bbd6",
   "pre_install": [
     "",
@@ -70,6 +70,6 @@
     "github": "https://github.com/ReaJason/MemShellParty"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
+    "url": "https://ghfast.top/https://github.com/ReaJason/MemShellParty/releases/download/v$version/boot-$version.jar"
   }
 }

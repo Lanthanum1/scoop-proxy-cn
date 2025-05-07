@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bepaald/signalbackup-tools/releases/download/20250505/signalbackup-tools_win.exe#/signalbackup-tools.exe",
+      "url": "https://ghfast.top/https://github.com/bepaald/signalbackup-tools/releases/download/20250505/signalbackup-tools_win.exe#/signalbackup-tools.exe",
       "hash": "f5b11402f09e01ccc08592d315731e96c98484fbabd351573a0b1ebad7236c19"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/bepaald/signalbackup-tools/releases/download/$version/signalbackup-tools_win.exe#/signalbackup-tools.exe"
+        "url": "https://ghfast.top/https://github.com/bepaald/signalbackup-tools/releases/download/$version/signalbackup-tools_win.exe#/signalbackup-tools.exe"
       }
     }
   }

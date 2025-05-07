@@ -5,7 +5,7 @@
   "license": "MIT|Unlicense",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/boa-dev/boa/releases/download/v0.20/boa-windows-amd64.exe#/boa.exe",
+      "url": "https://ghfast.top/https://github.com/boa-dev/boa/releases/download/v0.20/boa-windows-amd64.exe#/boa.exe",
       "hash": "c82e2f697bc258bde968247ab096f5fb33b725e16d35266d66c15056580dca0f"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/boa-dev/boa/releases/download/v$version/boa-windows-amd64.exe#/boa.exe"
+        "url": "https://ghfast.top/https://github.com/boa-dev/boa/releases/download/v$version/boa-windows-amd64.exe#/boa.exe"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/flyingpie/windows-terminal-quake/releases/download/v2.0.15/win-x64_self-contained.zip",
+      "url": "https://ghfast.top/https://github.com/flyingpie/windows-terminal-quake/releases/download/v2.0.15/win-x64_self-contained.zip",
       "hash": "e3662553950372f57e90539954cb3061e09b96c976d2b28960b5214ee27b6723"
     }
   },
@@ -30,7 +30,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/flyingpie/windows-terminal-quake/releases/download/v$matchMain/win-x64_self-contained.zip"
+        "url": "https://ghfast.top/https://github.com/flyingpie/windows-terminal-quake/releases/download/v$matchMain/win-x64_self-contained.zip"
       }
     }
   }

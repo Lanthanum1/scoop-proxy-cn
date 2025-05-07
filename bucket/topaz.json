@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/aserto-dev/topaz/releases/download/v0.32.60/topaz_windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/aserto-dev/topaz/releases/download/v0.32.60/topaz_windows_x86_64.zip",
       "hash": "cff407a75685ddf02a14900490391db2f9c04e7940b484e1f32d89f2af7a59ba"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/aserto-dev/topaz/releases/download/v$version/topaz_windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/aserto-dev/topaz/releases/download/v$version/topaz_windows_x86_64.zip"
       }
     }
   }

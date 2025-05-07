@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hamsterbase/hamsterbase/releases/download/0.15.0/hamsterbase-desktop-0.15.0-win-x64.zip",
+      "url": "https://ghfast.top/https://github.com/hamsterbase/hamsterbase/releases/download/0.15.0/hamsterbase-desktop-0.15.0-win-x64.zip",
       "hash": "e31819f2680eaa73c7bcbaa436ba65fb5d1b3ed107dda428148dcddf0f388b21"
     }
   },
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/hamsterbase/hamsterbase/releases/download/$version/hamsterbase-desktop-$version-win-x64.zip"
+        "url": "https://ghfast.top/https://github.com/hamsterbase/hamsterbase/releases/download/$version/hamsterbase-desktop-$version-win-x64.zip"
       }
     }
   }

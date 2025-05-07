@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bytecodealliance/javy/releases/download/v5.0.3/javy-x86_64-windows-v5.0.3.gz",
+      "url": "https://ghfast.top/https://github.com/bytecodealliance/javy/releases/download/v5.0.3/javy-x86_64-windows-v5.0.3.gz",
       "hash": "151b1d3bc519c01210845869113f6f6166b8e3060e78ae43f7d395c5801efda2"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/bytecodealliance/javy/releases/download/v$version/javy-x86_64-windows-v$version.gz"
+        "url": "https://ghfast.top/https://github.com/bytecodealliance/javy/releases/download/v$version/javy-x86_64-windows-v$version.gz"
       }
     },
     "hash": {

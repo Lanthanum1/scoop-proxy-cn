@@ -3,7 +3,7 @@
   "description": "ZFS filesystem driver for Windows",
   "homepage": "https://github.com/openzfsonwindows/openzfs",
   "license": "CDDL",
-  "url": "https://ghproxy.085404.xyz/https://github.com/openzfsonwindows/openzfs/releases/download/zfswin-2.3.1rc5/OpenZFSOnWindows-debug-2.3.1rc5.exe",
+  "url": "https://ghfast.top/https://github.com/openzfsonwindows/openzfs/releases/download/zfswin-2.3.1rc5/OpenZFSOnWindows-debug-2.3.1rc5.exe",
   "hash": "c3d58ce8865ebc338b85fc1766a3d1c3298dedfb1cea75c801536ca2cc1665b9",
   "innosetup": true,
   "pre_install": [
@@ -50,6 +50,6 @@
     "regex": "\\Azfswin-([\\w.]+)\\Z"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/openzfsonwindows/openzfs/releases/download/zfswin-$version/OpenZFSOnWindows-debug-$version.exe"
+    "url": "https://ghfast.top/https://github.com/openzfsonwindows/openzfs/releases/download/zfswin-$version/OpenZFSOnWindows-debug-$version.exe"
   }
 }

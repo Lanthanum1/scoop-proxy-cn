@@ -5,7 +5,7 @@
   "version": "20250424",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/iquiw/emacs-tree-sitter-module-dll/releases/download/20250424/emacs-tree-sitter-module-ucrt64-20250424.zip",
+      "url": "https://ghfast.top/https://github.com/iquiw/emacs-tree-sitter-module-dll/releases/download/20250424/emacs-tree-sitter-module-ucrt64-20250424.zip",
       "hash": "311af96ae6148e2689174d470aad6fea02d751a9b50d9d39d3a237f9a875cf49"
     }
   },
@@ -13,7 +13,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/iquiw/emacs-tree-sitter-module-dll/releases/download/$version/emacs-tree-sitter-module-ucrt64-$version.zip"
+        "url": "https://ghfast.top/https://github.com/iquiw/emacs-tree-sitter-module-dll/releases/download/$version/emacs-tree-sitter-module-ucrt64-$version.zip"
       }
     },
     "hash": {

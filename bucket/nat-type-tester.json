@@ -3,7 +3,7 @@
   "description": "NatTypeTester is a tool that tests out what your NAT type is.",
   "homepage": "https://github.com/HMBSbige/NatTypeTester",
   "license": "MIT",
-  "url": "https://ghproxy.085404.xyz/https://github.com/HMBSbige/NatTypeTester/releases/download/8.0.3/NatTypeTester-8.0.3.7z",
+  "url": "https://ghfast.top/https://github.com/HMBSbige/NatTypeTester/releases/download/8.0.3/NatTypeTester-8.0.3.7z",
   "hash": "7e144db8534bf027138af8d7ee8e96ff595acb6ae9453bce03ffecfd342a1c57",
   "architecture": {
     "64bit": {
@@ -35,6 +35,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version.7z"
+    "url": "https://ghfast.top/https://github.com/HMBSbige/NatTypeTester/releases/download/$version/NatTypeTester-$version.7z"
   }
 }

@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fo76utils/nifskope/releases/download/v2.0.dev11-20250505/NifSkope_2_0_2025-05-05-win64qt6_clang.7z",
+      "url": "https://ghfast.top/https://github.com/fo76utils/nifskope/releases/download/v2.0.dev11-20250505/NifSkope_2_0_2025-05-05-win64qt6_clang.7z",
       "hash": "f085961600756f691b9e47a8e8040f6613de51389ca298cbfbd792375521eb6f"
     }
   },
@@ -26,7 +26,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fo76utils/nifskope/releases/download/v$version/NifSkope_$majorVersion_$minorVersion_$matchYear-$matchMonth-$matchDay-win64qt6_clang.7z"
+        "url": "https://ghfast.top/https://github.com/fo76utils/nifskope/releases/download/v$version/NifSkope_$majorVersion_$minorVersion_$matchYear-$matchMonth-$matchDay-win64qt6_clang.7z"
       }
     }
   }

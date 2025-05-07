@@ -5,11 +5,11 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/emacs-eask/cli/releases/download/0.11.3/eask_0.11.3_win-x64.zip",
+      "url": "https://ghfast.top/https://github.com/emacs-eask/cli/releases/download/0.11.3/eask_0.11.3_win-x64.zip",
       "hash": "37038ef689a687886dcc35f45b9bec2481a8561ff045bef6222458b006ac4c21"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/emacs-eask/cli/releases/download/0.11.3/eask_0.11.3_win-arm64.zip",
+      "url": "https://ghfast.top/https://github.com/emacs-eask/cli/releases/download/0.11.3/eask_0.11.3_win-arm64.zip",
       "hash": "c04ede9f3cabb6fbadc685ee957eaada2b2ac4edfc1f554b00db9dd8202257b2"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/emacs-eask/cli/releases/download/$version/eask_$version_win-x64.zip"
+        "url": "https://ghfast.top/https://github.com/emacs-eask/cli/releases/download/$version/eask_$version_win-x64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/emacs-eask/cli/releases/download/$version/eask_$version_win-arm64.zip"
+        "url": "https://ghfast.top/https://github.com/emacs-eask/cli/releases/download/$version/eask_$version_win-arm64.zip"
       }
     }
   }

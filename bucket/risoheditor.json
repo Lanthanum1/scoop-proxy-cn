@@ -6,7 +6,7 @@
     "identifier": "GPL-3.0-only",
     "url": "https://github.com/katahiromz/RisohEditor/blob/master/LICENSE.txt"
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/katahiromz/RisohEditor/releases/download/5.8.7/RisohEditor-5.8.7-portable.zip",
+  "url": "https://ghfast.top/https://github.com/katahiromz/RisohEditor/releases/download/5.8.7/RisohEditor-5.8.7-portable.zip",
   "extract_dir": "RisohEditor-5.8.7-portable",
   "hash": "83bc7a590de65c7d4c3976f4b2b4cde6e3fb9b2dc2ef2a6880f10d88d732675f",
   "shortcuts": [
@@ -21,7 +21,7 @@
     "github": "https://github.com/katahiromz/RisohEditor"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/katahiromz/RisohEditor/releases/download/$version/RisohEditor-$version-portable.zip",
+    "url": "https://ghfast.top/https://github.com/katahiromz/RisohEditor/releases/download/$version/RisohEditor-$version-portable.zip",
     "extract_dir": "RisohEditor-$version-portable"
   }
 }

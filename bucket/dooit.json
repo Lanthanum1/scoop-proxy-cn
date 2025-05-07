@@ -5,7 +5,7 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/kraanzu/dooit/releases/download/v3.1.0/windows-dooit.exe#/dooit.exe",
+      "url": "https://ghfast.top/https://github.com/kraanzu/dooit/releases/download/v3.1.0/windows-dooit.exe#/dooit.exe",
       "hash": "5785b709d79155b718946a4d7e89fe4c2a02f22b06a989a9b1587a8314bb1a08"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/kraanzu/dooit/releases/download/v$version/windows-dooit.exe#/dooit.exe"
+        "url": "https://ghfast.top/https://github.com/kraanzu/dooit/releases/download/v$version/windows-dooit.exe#/dooit.exe"
       }
     }
   }

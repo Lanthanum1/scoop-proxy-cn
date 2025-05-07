@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ente-io/ente/releases/download/auth-v4.3.5/ente-auth-v4.3.5-windows.zip",
+      "url": "https://ghfast.top/https://github.com/ente-io/ente/releases/download/auth-v4.3.5/ente-auth-v4.3.5-windows.zip",
       "extract_dir": "ente-auth-v4.3.5-windows",
       "hash": "e392d91ff3215ff0957ca5649e0338d6faac0a2fbd7a73a2bb824736cf36e32c"
     }
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/ente-io/ente/releases/download/auth-v$version/ente-auth-v$version-windows.zip",
+        "url": "https://ghfast.top/https://github.com/ente-io/ente/releases/download/auth-v$version/ente-auth-v$version-windows.zip",
         "extract_dir": "ente-auth-v$version-windows"
       }
     }

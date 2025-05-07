@@ -6,11 +6,11 @@
   "notes": "Install the app with AddToStartup.bat in the programm directory.",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hdlx/AltAppSwitcher/releases/download/v0.31/AltAppSwitcher_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/hdlx/AltAppSwitcher/releases/download/v0.31/AltAppSwitcher_x86_64.zip",
       "hash": "4decc100bee9c4b785a8f22d3206640635d10784199d152cf1bf33882f295705"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hdlx/AltAppSwitcher/releases/download/v0.31/AltAppSwitcher_aarch64.zip",
+      "url": "https://ghfast.top/https://github.com/hdlx/AltAppSwitcher/releases/download/v0.31/AltAppSwitcher_aarch64.zip",
       "hash": "dcc648e8d265f05357a640446b913cedf4f707509f0228c0f26e390c85724928"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/hdlx/AltAppSwitcher/releases/download/v$version/AltAppSwitcher_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/hdlx/AltAppSwitcher/releases/download/v$version/AltAppSwitcher_x86_64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/hdlx/AltAppSwitcher/releases/download/v$version/AltAppSwitcher_aarch64.zip"
+        "url": "https://ghfast.top/https://github.com/hdlx/AltAppSwitcher/releases/download/v$version/AltAppSwitcher_aarch64.zip"
       }
     }
   }

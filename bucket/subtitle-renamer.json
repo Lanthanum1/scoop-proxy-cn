@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/nuthx/subtitle-renamer/releases/download/1.8.2/SubtitleRenamer_windows.zip",
+      "url": "https://ghfast.top/https://github.com/nuthx/subtitle-renamer/releases/download/1.8.2/SubtitleRenamer_windows.zip",
       "hash": "cd0ba1e1f4fb2b544f50eb1e483ea6692e6abcad4ff9ca291bd86773210ee662"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/nuthx/subtitle-renamer/releases/download/$version/SubtitleRenamer_windows.zip"
+        "url": "https://ghfast.top/https://github.com/nuthx/subtitle-renamer/releases/download/$version/SubtitleRenamer_windows.zip"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/replydev/cotp/releases/download/v1.9.4/cotp-1.9.4-x86_64-win-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/replydev/cotp/releases/download/v1.9.4/cotp-1.9.4-x86_64-win-msvc.zip",
       "hash": "acb496b1bdd49b2195fa3a5b5f600f16173102dee6f1d270ead427bb0c26d00d",
       "extract_dir": "cotp-v1.9.4-x86_64-win-gnu"
     }
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/replydev/cotp/releases/download/v$version/cotp-$version-x86_64-win-msvc.zip",
+        "url": "https://ghfast.top/https://github.com/replydev/cotp/releases/download/v$version/cotp-$version-x86_64-win-msvc.zip",
         "extract_dir": "cotp-v$version-x86_64-win-gnu"
       }
     }

@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/six-ddc/plow/releases/download/v1.3.2/plow_1.3.2_windows_amd64.tar.gz",
+      "url": "https://ghfast.top/https://github.com/six-ddc/plow/releases/download/v1.3.2/plow_1.3.2_windows_amd64.tar.gz",
       "hash": "70fa1ba437c0f0eff2a546611fe589c8ae3e3eb442794b415d8732ead0b2cfa2"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/six-ddc/plow/releases/download/v$version/plow_$version_windows_amd64.tar.gz"
+        "url": "https://ghfast.top/https://github.com/six-ddc/plow/releases/download/v$version/plow_$version_windows_amd64.tar.gz"
       }
     },
     "hash": {

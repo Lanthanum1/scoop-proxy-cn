@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/robusta-dev/krr/releases/download/v1.23.0/krr-windows-latest-v1.23.0.zip",
+      "url": "https://ghfast.top/https://github.com/robusta-dev/krr/releases/download/v1.23.0/krr-windows-latest-v1.23.0.zip",
       "hash": "f0c0c45c2ad7f0dcd031511fbd9348dcb337bc946fdce288bcc1e41057362d84"
     }
   },
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/robusta-dev/krr/releases/download/v$version/krr-windows-latest-v$version.zip"
+        "url": "https://ghfast.top/https://github.com/robusta-dev/krr/releases/download/v$version/krr-windows-latest-v$version.zip"
       }
     }
   }

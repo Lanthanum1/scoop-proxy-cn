@@ -5,11 +5,11 @@
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-amd64.exe#/velociraptor.exe",
+      "url": "https://ghfast.top/https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-amd64.exe#/velociraptor.exe",
       "hash": "dd77e7d49230a1e1433d9423f6468fb2f4cb4d4806194b614eb83c431a0ca99e"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-386.exe#/velociraptor.exe",
+      "url": "https://ghfast.top/https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.2-windows-386.exe#/velociraptor.exe",
       "hash": "59ceeb27ec33ae4c7aa665f23353977f9c78358486e75bb83b7c52cc92b7306b"
     }
   },
@@ -21,10 +21,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Velocidex/velociraptor/releases/download/v$majorVersion.$minorVersion/velociraptor-v$version-windows-amd64.exe#/velociraptor.exe"
+        "url": "https://ghfast.top/https://github.com/Velocidex/velociraptor/releases/download/v$majorVersion.$minorVersion/velociraptor-v$version-windows-amd64.exe#/velociraptor.exe"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Velocidex/velociraptor/releases/download/v$majorVersion.$minorVersion/velociraptor-v$version-windows-386.exe#/velociraptor.exe"
+        "url": "https://ghfast.top/https://github.com/Velocidex/velociraptor/releases/download/v$majorVersion.$minorVersion/velociraptor-v$version-windows-386.exe#/velociraptor.exe"
       }
     }
   }

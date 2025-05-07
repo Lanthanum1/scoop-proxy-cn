@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Bililive/BililiveRecorder/releases/download/v2.17.0/BililiveRecorder-CLI-win-x64.zip",
+      "url": "https://ghfast.top/https://github.com/Bililive/BililiveRecorder/releases/download/v2.17.0/BililiveRecorder-CLI-win-x64.zip",
       "hash": "652af0b92bf9cbc26bd08c48b8f21e660fbe57cc0af9bdac4bd5d5ed198774ea"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Bililive/BililiveRecorder/releases/download/v$version/BililiveRecorder-CLI-win-x64.zip"
+        "url": "https://ghfast.top/https://github.com/Bililive/BililiveRecorder/releases/download/v$version/BililiveRecorder-CLI-win-x64.zip"
       }
     }
   }

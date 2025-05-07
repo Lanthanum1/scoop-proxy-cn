@@ -31,7 +31,7 @@
     ]
   ],
   "checkver": {
-    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/Nenirey/AWGG/master/version",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/Nenirey/AWGG/master/version",
     "regex": "([\\d.]+)"
   },
   "autoupdate": {

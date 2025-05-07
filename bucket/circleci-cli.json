@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.31632/circleci-cli_0.1.31632_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.31632/circleci-cli_0.1.31632_windows_amd64.zip",
       "hash": "d568afcf87c1bf4ff8e5398032b1ad174f0bf71eb5ed3f80e0a88942bc7c316b",
       "extract_dir": "circleci-cli_0.1.31632_windows_amd64"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.31632/circleci-cli_0.1.31632_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.31632/circleci-cli_0.1.31632_windows_arm64.zip",
       "hash": "7725af3924ed32483f78f4f383adcae213e429448c39f1589dfa2d80549e6139",
       "extract_dir": "circleci-cli_0.1.31632_windows_arm64"
     }
@@ -22,11 +22,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip",
+        "url": "https://ghfast.top/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip",
         "extract_dir": "circleci-cli_$version_windows_amd64"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_arm64.zip",
+        "url": "https://ghfast.top/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_arm64.zip",
         "extract_dir": "circleci-cli_$version_windows_arm64"
       }
     },

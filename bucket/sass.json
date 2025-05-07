@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sass/dart-sass/releases/download/1.87.0/dart-sass-1.87.0-windows-x64.zip",
+      "url": "https://ghfast.top/https://github.com/sass/dart-sass/releases/download/1.87.0/dart-sass-1.87.0-windows-x64.zip",
       "hash": "f9ca08b31f4e9276eaaf25dae9629db87513bcbf1c31ead4dabcdc6e6b734633"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sass/dart-sass/releases/download/1.87.0/dart-sass-1.87.0-windows-ia32.zip",
+      "url": "https://ghfast.top/https://github.com/sass/dart-sass/releases/download/1.87.0/dart-sass-1.87.0-windows-ia32.zip",
       "hash": "1e09b5425ae8cb744ec4821504a14566d3ef45260cf8c7a50d802c0151df3fea"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
+        "url": "https://ghfast.top/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-ia32.zip"
+        "url": "https://ghfast.top/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-ia32.zip"
       }
     }
   }

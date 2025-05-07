@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Future-Scholars/paperlib/releases/download/release-electron-3.1.10/Paperlib_3.1.10.exe#/dl.7z",
+      "url": "https://ghfast.top/https://github.com/Future-Scholars/paperlib/releases/download/release-electron-3.1.10/Paperlib_3.1.10.exe#/dl.7z",
       "hash": "sha512:8f7f450ba8687ae2fe6cec29f5d66621e92ab14dbebce2d46bbf2d12d7c7157b83c706da52f119c33d5cc631234e9c2b7bb8e603e0d6929e588a066176c18bbb",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Future-Scholars/paperlib/releases/download/release-electron-$version/Paperlib_$version.exe#/dl.7z",
+        "url": "https://ghfast.top/https://github.com/Future-Scholars/paperlib/releases/download/release-electron-$version/Paperlib_$version.exe#/dl.7z",
         "hash": {
           "url": "https://distribution.paperlib.app/electron-win/latest.yml",
           "regex": "sha512:\\s*$base64"

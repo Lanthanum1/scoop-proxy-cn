@@ -5,11 +5,11 @@
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/openbao/openbao/releases/download/v2.2.1/bao_2.2.1_Windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/openbao/openbao/releases/download/v2.2.1/bao_2.2.1_Windows_x86_64.zip",
       "hash": "77a592c4cd056acf6cc71ececb752761aabbec768275f6e2c34ae5f28586c9cb"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/openbao/openbao/releases/download/v2.2.1/bao_2.2.1_Windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/openbao/openbao/releases/download/v2.2.1/bao_2.2.1_Windows_arm64.zip",
       "hash": "8a79188ab4094ae94ddd12f292c59f0f9038538a3948a0d0de1267d32c8c1fd5"
     }
   },
@@ -21,10 +21,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/openbao/openbao/releases/download/v$version/bao_$version_Windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/openbao/openbao/releases/download/v$version/bao_$version_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/openbao/openbao/releases/download/v$version/bao_$version_Windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/openbao/openbao/releases/download/v$version/bao_$version_Windows_arm64.zip"
       }
     }
   }

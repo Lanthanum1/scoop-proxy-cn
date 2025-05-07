@@ -7,7 +7,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/niuhuan/wax/releases/download/v1.3.5/z-of-wax-v1.3.5-windows-x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/niuhuan/wax/releases/download/v1.3.5/z-of-wax-v1.3.5-windows-x86_64.zip",
       "hash": "5249a25d51597373ef77a6e52b10c79057cfcf5686b14bb1a73ea53ed4eb4fe7"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/niuhuan/wax/releases/download/v$version/$matchPrefix1$matchPrefix2$matchPrefix3-wax-v$version-windows-x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/niuhuan/wax/releases/download/v$version/$matchPrefix1$matchPrefix2$matchPrefix3-wax-v$version-windows-x86_64.zip"
       }
     }
   }

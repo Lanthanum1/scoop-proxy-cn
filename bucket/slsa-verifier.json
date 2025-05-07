@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/slsa-framework/slsa-verifier/releases/download/v2.7.1-rc.1/slsa-verifier-windows-amd64.exe#/slsa-verifier.exe",
+      "url": "https://ghfast.top/https://github.com/slsa-framework/slsa-verifier/releases/download/v2.7.1-rc.1/slsa-verifier-windows-amd64.exe#/slsa-verifier.exe",
       "hash": "ff58f79ed3e6d7f078b09ecb976e9d7d2b1f1766a33e29ff68cc309eb36cea51"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/slsa-framework/slsa-verifier/releases/download/v2.7.1-rc.1/slsa-verifier-windows-arm64.exe#/slsa-verifier.exe",
+      "url": "https://ghfast.top/https://github.com/slsa-framework/slsa-verifier/releases/download/v2.7.1-rc.1/slsa-verifier-windows-arm64.exe#/slsa-verifier.exe",
       "hash": "ecfdafc2d8dcf735cae7e6a3ba2648ff83a0fb0535f25f4c1062fa7a43b5817e"
     }
   },
@@ -21,10 +21,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/slsa-framework/slsa-verifier/releases/download/v$version/slsa-verifier-windows-amd64.exe#/slsa-verifier.exe"
+        "url": "https://ghfast.top/https://github.com/slsa-framework/slsa-verifier/releases/download/v$version/slsa-verifier-windows-amd64.exe#/slsa-verifier.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/slsa-framework/slsa-verifier/releases/download/v$version/slsa-verifier-windows-arm64.exe#/slsa-verifier.exe"
+        "url": "https://ghfast.top/https://github.com/slsa-framework/slsa-verifier/releases/download/v$version/slsa-verifier-windows-arm64.exe#/slsa-verifier.exe"
       }
     }
   }

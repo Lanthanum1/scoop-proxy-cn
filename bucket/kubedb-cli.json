@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/kubedb/cli/releases/download/v0.54.0/kubectl-dba-windows-amd64.zip",
+      "url": "https://ghfast.top/https://github.com/kubedb/cli/releases/download/v0.54.0/kubectl-dba-windows-amd64.zip",
       "hash": "a935639ab077827a468bfddb5ff346458185a8c133965a8e2f3088893a2cb47c"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/kubedb/cli/releases/download/v$version/kubectl-dba-windows-amd64.zip"
+        "url": "https://ghfast.top/https://github.com/kubedb/cli/releases/download/v$version/kubectl-dba-windows-amd64.zip"
       }
     },
     "hash": {

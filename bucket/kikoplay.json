@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/KikoPlayProject/KikoPlay/releases/download/1.0.3/1.0.3.7z",
+      "url": "https://ghfast.top/https://github.com/KikoPlayProject/KikoPlay/releases/download/1.0.3/1.0.3.7z",
       "hash": "ac8b9aaf682ab3a02acdec2e22da3e6df7209011a78be5883a202e1475edb143"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/KikoPlayProject/KikoPlay/releases/download/$version/$version.7z"
+        "url": "https://ghfast.top/https://github.com/KikoPlayProject/KikoPlay/releases/download/$version/$version.7z"
       }
     }
   }

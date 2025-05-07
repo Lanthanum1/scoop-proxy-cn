@@ -3,7 +3,7 @@
   "description": "A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]",
   "homepage": "https://github.com/vladelaina/Catime",
   "license": "Apache-2.0",
-  "url": "https://ghproxy.085404.xyz/https://github.com/vladelaina/Catime/releases/download/v1.0.7/catime_1.0.7.exe#/catime.exe",
+  "url": "https://ghfast.top/https://github.com/vladelaina/Catime/releases/download/v1.0.7/catime_1.0.7.exe#/catime.exe",
   "hash": "884494d1dedb45e2859a48e0d941d183198c241f300198f95642dff73bac4eac",
   "bin": "catime.exe",
   "shortcuts": [
@@ -53,6 +53,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/vladelaina/Catime/releases/download/v$version/catime_$version.exe#/catime.exe"
+    "url": "https://ghfast.top/https://github.com/vladelaina/Catime/releases/download/v$version/catime_$version.exe#/catime.exe"
   }
 }

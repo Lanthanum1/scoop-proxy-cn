@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/codefresh-io/cli/releases/download/v0.88.6/codefresh-v0.88.6-win-x64.zip",
+      "url": "https://ghfast.top/https://github.com/codefresh-io/cli/releases/download/v0.88.6/codefresh-v0.88.6-win-x64.zip",
       "hash": "1dd1eece83d2f42d53ee9277e9e058f54696b0212de2480ed608da57189e06e7"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/codefresh-io/cli/releases/download/v$version/codefresh-v$version-win-x64.zip"
+        "url": "https://ghfast.top/https://github.com/codefresh-io/cli/releases/download/v$version/codefresh-v$version-win-x64.zip"
       }
     }
   }

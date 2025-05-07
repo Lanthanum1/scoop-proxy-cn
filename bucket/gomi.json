@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/babarot/gomi/releases/download/v1.6.0/gomi_Windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/babarot/gomi/releases/download/v1.6.0/gomi_Windows_x86_64.zip",
       "hash": "40e64a81def4a89ae17f09a6446361d45f2ba403436909b63823de3bd3433e3c"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/babarot/gomi/releases/download/v1.6.0/gomi_Windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/babarot/gomi/releases/download/v1.6.0/gomi_Windows_arm64.zip",
       "hash": "50a2b66606a8a89e00955c1c5cfed6b5d2d7e8288131ec6bf648f3f3a4e74a18"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/babarot/gomi/releases/download/v$version/gomi_Windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/babarot/gomi/releases/download/v$version/gomi_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/babarot/gomi/releases/download/v$version/gomi_Windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/babarot/gomi/releases/download/v$version/gomi_Windows_arm64.zip"
       }
     },
     "hash": {

@@ -11,7 +11,7 @@
           "logcli"
         ]
       ],
-      "url": "https://ghproxy.085404.xyz/https://github.com/grafana/loki/releases/download/v3.5.0/logcli-windows-amd64.exe.zip",
+      "url": "https://ghfast.top/https://github.com/grafana/loki/releases/download/v3.5.0/logcli-windows-amd64.exe.zip",
       "hash": "720caca1d03e917a1f45c98c081abb66097838a3ef483dc25dccc69fd26d0635"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/grafana/loki/releases/download/v$version/logcli-windows-amd64.exe.zip"
+        "url": "https://ghfast.top/https://github.com/grafana/loki/releases/download/v$version/logcli-windows-amd64.exe.zip"
       }
     },
     "hash": {

@@ -9,11 +9,11 @@
   "architecture": {
     "64bit": {
       "pre_install": "Get-ChildItem \"$dir\" 'NVEncC64.exe' | Select-Object -First 1 | Rename-Item -NewName 'NVEncC.exe'",
-      "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/NVEnc/releases/download/8.04/NVEncC_8.04_x64.7z",
+      "url": "https://ghfast.top/https://github.com/rigaya/NVEnc/releases/download/8.04/NVEncC_8.04_x64.7z",
       "hash": "0a814a07f9753c006d1dc1419783885e85cb89efeb3548e26f9eb206758bdfd7"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/NVEnc/releases/download/8.04/NVEncC_8.04_Win32.7z",
+      "url": "https://ghfast.top/https://github.com/rigaya/NVEnc/releases/download/8.04/NVEncC_8.04_Win32.7z",
       "hash": "f249c799ad5d38b48d9da9fc3289abd06fdd798094fe09b58283400114d26f42"
     }
   },
@@ -25,10 +25,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/NVEnc/releases/download/$version/NVEncC_$version_x64.7z"
+        "url": "https://ghfast.top/https://github.com/rigaya/NVEnc/releases/download/$version/NVEncC_$version_x64.7z"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/rigaya/NVEnc/releases/download/$version/NVEncC_$version_Win32.7z"
+        "url": "https://ghfast.top/https://github.com/rigaya/NVEnc/releases/download/$version/NVEncC_$version_Win32.7z"
       }
     }
   }

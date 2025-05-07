@@ -5,15 +5,15 @@
   "license": "Elastic-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_amd64.zip",
       "hash": "6c3c8a5e3d5eca3a6134a40f0aa2353c1024f6bd2edca937150b3dca592fa379"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_386.zip",
+      "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_386.zip",
       "hash": "7ca92cc35000eb76097b3f64d1665d907abd30f4e8aa92a73588f74c615edb71"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v1.542.3/speakeasy_windows_arm64.zip",
       "hash": "d43b48bb632d85f43288fe5e6cef4ec8a0369a9df819c8baaa1beb5911216889"
     }
   },
@@ -24,13 +24,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_386.zip"
+        "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_386.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/speakeasy-api/speakeasy/releases/download/v$version/speakeasy_windows_arm64.zip"
       }
     },
     "hash": {

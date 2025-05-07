@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Predidit/oneAnime/releases/download/1.4.0/oneAnime_windows_1.4.0.zip",
+      "url": "https://ghfast.top/https://github.com/Predidit/oneAnime/releases/download/1.4.0/oneAnime_windows_1.4.0.zip",
       "hash": "ef0cb2058206079101c3d3e93ec0fc730c6e626d731cf2f1a692af8c47b67c52"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Predidit/oneAnime/releases/download/$version/oneAnime_windows_$version.zip"
+        "url": "https://ghfast.top/https://github.com/Predidit/oneAnime/releases/download/$version/oneAnime_windows_$version.zip"
       }
     }
   }

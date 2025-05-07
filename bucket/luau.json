@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Roblox/luau/releases/download/0.672/luau-windows.zip",
+      "url": "https://ghfast.top/https://github.com/Roblox/luau/releases/download/0.672/luau-windows.zip",
       "hash": "705406d57bf1f92216030f85ef5665c8d14191581269d2ee04b9806c27a89131"
     }
   },
@@ -19,7 +19,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Roblox/luau/releases/download/$version/luau-windows.zip"
+        "url": "https://ghfast.top/https://github.com/Roblox/luau/releases/download/$version/luau-windows.zip"
       }
     }
   }

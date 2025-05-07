@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Yamato-Security/takajo/releases/download/v2.9.2/takajo-2.9.2-win-x64.zip",
+      "url": "https://ghfast.top/https://github.com/Yamato-Security/takajo/releases/download/v2.9.2/takajo-2.9.2-win-x64.zip",
       "extract_dir": "takajo-2.9.2-win-x64",
       "hash": "664ddbc98b92b04d970620acaf7881d90c6bae371295bbd383dc50280fdf3452"
     }
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Yamato-Security/takajo/releases/download/v$version/takajo-$version-win-x64.zip",
+        "url": "https://ghfast.top/https://github.com/Yamato-Security/takajo/releases/download/v$version/takajo-$version-win-x64.zip",
         "extract_dir": "takajo-$version-win-x64"
       }
     }

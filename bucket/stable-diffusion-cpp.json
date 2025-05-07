@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/sd-master-d7c7a34-bin-win-avx2-x64.zip",
+      "url": "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-d7c7a34/sd-master-d7c7a34-bin-win-avx2-x64.zip",
       "hash": "c5d7327da4388a6df11a7d76f652f53fd9385815e79ef9fb5af9bcdd329a786d"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/sd-$version-bin-win-avx2-x64.zip"
+        "url": "https://ghfast.top/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/sd-$version-bin-win-avx2-x64.zip"
       }
     }
   }

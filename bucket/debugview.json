@@ -51,7 +51,7 @@
     }
   },
   "checkver": {
-    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/debugview.md",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/debugview.md",
     "regex": "#.*?v([\\d.]+)"
   },
   "autoupdate": {

@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fastly/cli/releases/download/v11.2.0/fastly_v11.2.0_windows-amd64.zip",
+      "url": "https://ghfast.top/https://github.com/fastly/cli/releases/download/v11.2.0/fastly_v11.2.0_windows-amd64.zip",
       "hash": "4cf57c23ecc92b293f9b7658e2531d4b40e72dc307c1e80585ea5a4e807ba243"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fastly/cli/releases/download/v11.2.0/fastly_v11.2.0_windows-386.zip",
+      "url": "https://ghfast.top/https://github.com/fastly/cli/releases/download/v11.2.0/fastly_v11.2.0_windows-386.zip",
       "hash": "1d1190e27fa61777560baf3e7152b958437b42a546e8fb6645ba4fb88b1efe67"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fastly/cli/releases/download/v$version/fastly_v$version_windows-amd64.zip"
+        "url": "https://ghfast.top/https://github.com/fastly/cli/releases/download/v$version/fastly_v$version_windows-amd64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fastly/cli/releases/download/v$version/fastly_v$version_windows-386.zip"
+        "url": "https://ghfast.top/https://github.com/fastly/cli/releases/download/v$version/fastly_v$version_windows-386.zip"
       }
     },
     "hash": {

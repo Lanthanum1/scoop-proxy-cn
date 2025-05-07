@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/tantivy-cli-0.24.0/tantivy-cli-0.24.0-x86_64-pc-windows-msvc.tar.gz",
+      "url": "https://ghfast.top/https://github.com/cargo-bins/cargo-quickinstall/releases/download/tantivy-cli-0.24.0/tantivy-cli-0.24.0-x86_64-pc-windows-msvc.tar.gz",
       "hash": "0ae812725ffd24a3bdeea70c462f7f7b9fd486a2558f0fa4d6f54fd1dac99f72"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/tantivy-cli-$version/tantivy-cli-$version-x86_64-pc-windows-msvc.tar.gz"
+        "url": "https://ghfast.top/https://github.com/cargo-bins/cargo-quickinstall/releases/download/tantivy-cli-$version/tantivy-cli-$version-x86_64-pc-windows-msvc.tar.gz"
       }
     }
   }

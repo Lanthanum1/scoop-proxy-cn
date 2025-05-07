@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/moonrepo/moon/releases/download/v1.35.5/moon-x86_64-pc-windows-msvc.exe#/moon.exe",
+      "url": "https://ghfast.top/https://github.com/moonrepo/moon/releases/download/v1.35.5/moon-x86_64-pc-windows-msvc.exe#/moon.exe",
       "hash": "c7b0ede136598000785868ba07192aaf8987446b95f5454c56d8907a437e7972"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/moonrepo/moon/releases/download/v$version/moon-x86_64-pc-windows-msvc.exe#/moon.exe"
+        "url": "https://ghfast.top/https://github.com/moonrepo/moon/releases/download/v$version/moon-x86_64-pc-windows-msvc.exe#/moon.exe"
       }
     }
   }

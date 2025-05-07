@@ -7,7 +7,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/niuhuan/jasmine/releases/download/v1.7.7/jasmine-v1.7.7-windows-x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/niuhuan/jasmine/releases/download/v1.7.7/jasmine-v1.7.7-windows-x86_64.zip",
       "hash": "eb3957b05ae7ae1871ecbe2166c7bb2f6745a1bea5487e22195cd416f242cab3"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/niuhuan/jasmine/releases/download/v$version/jasmine-v$version-windows-x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/niuhuan/jasmine/releases/download/v$version/jasmine-v$version-windows-x86_64.zip"
       }
     }
   }

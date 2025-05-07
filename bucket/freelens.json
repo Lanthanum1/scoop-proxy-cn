@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/freelensapp/freelens/releases/download/v1.2.1/Freelens-1.2.1-windows-amd64.msi",
+      "url": "https://ghfast.top/https://github.com/freelensapp/freelens/releases/download/v1.2.1/Freelens-1.2.1-windows-amd64.msi",
       "hash": "def0ae0b3ba6e71b815f2c4660fecd9d18f1be843247ddba62961975bb3923c3"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-amd64.msi"
+        "url": "https://ghfast.top/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-amd64.msi"
       }
     },
     "hash": {

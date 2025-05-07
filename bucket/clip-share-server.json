@@ -9,8 +9,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clip_share_server-3.8.3-windows-x86_64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clipshare.conf"
+        "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clip_share_server-3.8.3-windows-x86_64.zip",
+        "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clipshare.conf"
       ],
       "hash": [
         "3062e84b617e4ba7b5454144357062d907aa868fb2e6d7e5cf9386693c1e03c5",
@@ -19,8 +19,8 @@
     },
     "32bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clip_share_server-3.8.3-windows-x86.zip",
-        "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clipshare.conf"
+        "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clip_share_server-3.8.3-windows-x86.zip",
+        "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v3.8.3/clipshare.conf"
       ],
       "hash": [
         "5635505c6d490121d64f829c56d01b56018601667ae04ae0cf14b263fb2bfbc5",
@@ -47,14 +47,14 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clip_share_server-$version-windows-x86_64.zip",
-          "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clipshare.conf"
+          "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clip_share_server-$version-windows-x86_64.zip",
+          "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clipshare.conf"
         ]
       },
       "32bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clip_share_server-$version-windows-x86.zip",
-          "https://ghproxy.085404.xyz/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clipshare.conf"
+          "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clip_share_server-$version-windows-x86.zip",
+          "https://ghfast.top/https://github.com/thevindu-w/clip_share_server/releases/download/v$version/clipshare.conf"
         ]
       }
     }

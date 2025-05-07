@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v2.9.0/SyncClipboard.zip",
+      "url": "https://ghfast.top/https://github.com/Jeric-X/SyncClipboard/releases/download/v2.9.0/SyncClipboard.zip",
       "hash": "6916a8707315814ce6bc3c9e32608e3ed198b8cbb34356d98c89eeae6706ea02"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Jeric-X/SyncClipboard/releases/download/v$version/SyncClipboard.zip"
+        "url": "https://ghfast.top/https://github.com/Jeric-X/SyncClipboard/releases/download/v$version/SyncClipboard.zip"
       }
     }
   }

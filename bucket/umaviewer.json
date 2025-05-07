@@ -5,7 +5,7 @@
   "version": "0.0.20250327122408",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/katboi01/UmaViewer/releases/download/AutoBuild_c8554e500cd4e80fc2734a52fe288a5b2e9eb8fb/UmaViewer.zip",
+      "url": "https://ghfast.top/https://github.com/katboi01/UmaViewer/releases/download/AutoBuild_c8554e500cd4e80fc2734a52fe288a5b2e9eb8fb/UmaViewer.zip",
       "hash": "6337429bd02aef8ecf4be6a2efd8498f0f890bddd1b7d9367fca29cd9a943095"
     }
   },
@@ -29,6 +29,6 @@
     "regex": "(?<version>[\\d.]+)\\s(?<commit>.+)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/katboi01/UmaViewer/releases/download/AutoBuild_$matchCommit/UmaViewer.zip"
+    "url": "https://ghfast.top/https://github.com/katboi01/UmaViewer/releases/download/AutoBuild_$matchCommit/UmaViewer.zip"
   }
 }

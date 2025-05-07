@@ -6,7 +6,7 @@
   "depends": "steam",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tkashkin/Adwaita-for-Steam/archive/master.zip",
+      "url": "https://ghfast.top/https://github.com/tkashkin/Adwaita-for-Steam/archive/master.zip",
       "hash": "83b95753c8e353ac7dcac0eaf3f6e15cce03dfdcffdb4c73f37c042f2a826a6e",
       "extract_dir": "Adwaita-for-Steam-master"
     }
@@ -21,7 +21,7 @@
     "github": "https://github.com/tkashkin/Adwaita-for-Steam"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/tkashkin/Adwaita-for-Steam/archive/master.zip",
+    "url": "https://ghfast.top/https://github.com/tkashkin/Adwaita-for-Steam/archive/master.zip",
     "hash": {
       "mode": "download"
     }

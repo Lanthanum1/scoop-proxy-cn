@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.16.9/oxlint-win32-x64.zip",
+      "url": "https://ghfast.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.16.9/oxlint-win32-x64.zip",
       "hash": "563320123e6c5452bf9b27197e0097630012d6382191b993fb75b1d34d0f8b56"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.16.9/oxlint-win32-arm64.zip",
+      "url": "https://ghfast.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.16.9/oxlint-win32-arm64.zip",
       "hash": "6bd8b30042ef5fbb30ac9b67003c51a2c52bc1c042a666c6ba7d08a19f2d98c4"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-x64.zip"
+        "url": "https://ghfast.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-x64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-arm64.zip"
+        "url": "https://ghfast.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-arm64.zip"
       }
     }
   }

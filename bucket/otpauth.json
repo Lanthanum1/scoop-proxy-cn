@@ -5,7 +5,7 @@
   "license": "ISC",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/dim13/otpauth/releases/download/v0.6.0/otpauth-v0.6.0-windows-amd64.tgz",
+      "url": "https://ghfast.top/https://github.com/dim13/otpauth/releases/download/v0.6.0/otpauth-v0.6.0-windows-amd64.tgz",
       "hash": "79628b9697f20ad6f5a3df770450c0cbe72f32648c3315bf3fe777b78805d90e"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/dim13/otpauth/releases/download/v$version/otpauth-v$version-windows-amd64.tgz"
+        "url": "https://ghfast.top/https://github.com/dim13/otpauth/releases/download/v$version/otpauth-v$version-windows-amd64.tgz"
       }
     }
   }

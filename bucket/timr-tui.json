@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sectore/timr-tui/releases/download/v1.2.1/timr-tui.exe-1.2.1-windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/sectore/timr-tui/releases/download/v1.2.1/timr-tui.exe-1.2.1-windows_x86_64.zip",
       "hash": "426c47c419b61967ab171da4f938cee937b6b5e8fbc12725f38e647e1646e571"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/sectore/timr-tui/releases/download/v$version/timr-tui.exe-$version-windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/sectore/timr-tui/releases/download/v$version/timr-tui.exe-$version-windows_x86_64.zip"
       }
     }
   }

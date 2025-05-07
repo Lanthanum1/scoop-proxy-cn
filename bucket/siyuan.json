@@ -6,7 +6,7 @@
     "identifier": "Unknown"
   },
   "depends": "7zip",
-  "url": "https://ghproxy.085404.xyz/https://github.com/siyuan-note/siyuan/releases/download/v3.1.28/siyuan-3.1.28-win.exe#/dl.7z",
+  "url": "https://ghfast.top/https://github.com/siyuan-note/siyuan/releases/download/v3.1.28/siyuan-3.1.28-win.exe#/dl.7z",
   "hash": "eaec0f14830d4e3de99957f6b9fbfba07dc62783659b8a094ca1fd746a1930e7",
   "pre_install": [
     "7z x \"$dir\\`$PLUGINSDIR\\*.7z\" -o\"$dir\\`$PLUGINSDIR\\siyuan\"",
@@ -26,6 +26,6 @@
     "regex": "/releases/tag/v(?<version>.+?)\""
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
+    "url": "https://ghfast.top/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
   }
 }

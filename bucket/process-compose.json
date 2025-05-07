@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/F1bonacc1/process-compose/releases/download/v1.63.0/process-compose_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/F1bonacc1/process-compose/releases/download/v1.63.0/process-compose_windows_amd64.zip",
       "hash": "284456258c914d45e464e64f3bb0388a952a174be6d58e403c9b59942f155db2"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/F1bonacc1/process-compose/releases/download/v1.63.0/process-compose_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/F1bonacc1/process-compose/releases/download/v1.63.0/process-compose_windows_arm64.zip",
       "hash": "ff1a0ac94705870263256c9718ea9a4cef749978596c1b7973dbb893233bdaee"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/F1bonacc1/process-compose/releases/download/v$version/process-compose_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/F1bonacc1/process-compose/releases/download/v$version/process-compose_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/F1bonacc1/process-compose/releases/download/v$version/process-compose_windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/F1bonacc1/process-compose/releases/download/v$version/process-compose_windows_arm64.zip"
       }
     },
     "hash": {

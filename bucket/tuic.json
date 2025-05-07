@@ -6,8 +6,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/Itsusinn/tuic/releases/download/v1.4.5/tuic-server-x86_64-windows.exe#/tuic-server.exe",
-        "https://ghproxy.085404.xyz/https://github.com/Itsusinn/tuic/releases/download/v1.4.5/tuic-client-x86_64-windows.exe#/tuic-client.exe"
+        "https://ghfast.top/https://github.com/Itsusinn/tuic/releases/download/v1.4.5/tuic-server-x86_64-windows.exe#/tuic-server.exe",
+        "https://ghfast.top/https://github.com/Itsusinn/tuic/releases/download/v1.4.5/tuic-client-x86_64-windows.exe#/tuic-client.exe"
       ],
       "hash": [
         "c0de8031edb590b4c28865a12a5de05dd4ef449c3cb63a23035956b847e7a143",
@@ -24,8 +24,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/Itsusinn/tuic/releases/download/v$version/tuic-server-x86_64-windows.exe#/tuic-server.exe",
-          "https://ghproxy.085404.xyz/https://github.com/Itsusinn/tuic/releases/download/v$version/tuic-client-x86_64-windows.exe#/tuic-client.exe"
+          "https://ghfast.top/https://github.com/Itsusinn/tuic/releases/download/v$version/tuic-server-x86_64-windows.exe#/tuic-server.exe",
+          "https://ghfast.top/https://github.com/Itsusinn/tuic/releases/download/v$version/tuic-client-x86_64-windows.exe#/tuic-client.exe"
         ]
       }
     }

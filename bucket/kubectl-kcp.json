@@ -6,9 +6,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-kcp-plugin_0.27.1_windows_amd64.tar.gz",
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-ws-plugin_0.27.1_windows_amd64.tar.gz",
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-create-workspace-plugin_0.27.1_windows_amd64.tar.gz"
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-kcp-plugin_0.27.1_windows_amd64.tar.gz",
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-ws-plugin_0.27.1_windows_amd64.tar.gz",
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-create-workspace-plugin_0.27.1_windows_amd64.tar.gz"
       ],
       "hash": [
         "6d758659131718068b8d69e1f6665757e382c46bf547455223392f32d85f8003",
@@ -18,9 +18,9 @@
     },
     "arm64": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-kcp-plugin_0.27.1_windows_arm64.tar.gz",
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-ws-plugin_0.27.1_windows_arm64.tar.gz",
-        "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-create-workspace-plugin_0.27.1_windows_arm64.tar.gz"
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-kcp-plugin_0.27.1_windows_arm64.tar.gz",
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-ws-plugin_0.27.1_windows_arm64.tar.gz",
+        "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v0.27.1/kubectl-create-workspace-plugin_0.27.1_windows_arm64.tar.gz"
       ],
       "hash": [
         "d56c5d9f922a4de364598ec189a26a6802f6f38b2142ca3acd8368beac927e01",
@@ -41,16 +41,16 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_amd64.tar.gz",
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_amd64.tar.gz",
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_amd64.tar.gz"
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_amd64.tar.gz",
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_amd64.tar.gz",
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_amd64.tar.gz"
         ]
       },
       "arm64": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_arm64.tar.gz",
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_arm64.tar.gz",
-          "https://ghproxy.085404.xyz/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_arm64.tar.gz"
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-kcp-plugin_$version_windows_arm64.tar.gz",
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-ws-plugin_$version_windows_arm64.tar.gz",
+          "https://ghfast.top/https://github.com/kcp-dev/kcp/releases/download/v$version/kubectl-create-workspace-plugin_$version_windows_arm64.tar.gz"
         ]
       }
     },

@@ -5,7 +5,7 @@
   "license": "AGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/drl990114/MarkFlowy/releases/download/v0.24.0/MarkFlowy_0.24.0_windows_x86_64.msi",
+      "url": "https://ghfast.top/https://github.com/drl990114/MarkFlowy/releases/download/v0.24.0/MarkFlowy_0.24.0_windows_x86_64.msi",
       "hash": "dd30d53c580db9382d15c4b2992da838f2449f95f9b0698f56bcf87e0b0450f7"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/drl990114/MarkFlowy/releases/download/v$version/MarkFlowy_$version_windows_x86_64.msi"
+        "url": "https://ghfast.top/https://github.com/drl990114/MarkFlowy/releases/download/v$version/MarkFlowy_$version_windows_x86_64.msi"
       }
     }
   },

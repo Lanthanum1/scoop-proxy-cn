@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/beeradmoore/dlss-swapper/releases/download/v1.1.6/DLSS.Swapper-1.1.6.0-portable.zip",
+      "url": "https://ghfast.top/https://github.com/beeradmoore/dlss-swapper/releases/download/v1.1.6/DLSS.Swapper-1.1.6.0-portable.zip",
       "hash": "4023becb0d2b856c915b4f261c4586d938391aff85a34d2803759f27adb14f3d",
       "bin": [
         "DLSS Swapper.exe"
@@ -32,7 +32,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/beeradmoore/dlss-swapper/releases/download/v$version/DLSS.Swapper-$version-portable.zip"
+        "url": "https://ghfast.top/https://github.com/beeradmoore/dlss-swapper/releases/download/v$version/DLSS.Swapper-$version-portable.zip"
       }
     }
   }

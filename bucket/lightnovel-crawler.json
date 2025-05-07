@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/dipu-bd/lightnovel-crawler/releases/download/v3.7.5/lncrawl.exe",
+      "url": "https://ghfast.top/https://github.com/dipu-bd/lightnovel-crawler/releases/download/v3.7.5/lncrawl.exe",
       "hash": "1f47cb7056638912d4cb4171b608f557d4c63a0648d9c4777b8508b652670271"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/dipu-bd/lightnovel-crawler/releases/download/v$version/lncrawl.exe"
+        "url": "https://ghfast.top/https://github.com/dipu-bd/lightnovel-crawler/releases/download/v$version/lncrawl.exe"
       }
     }
   }

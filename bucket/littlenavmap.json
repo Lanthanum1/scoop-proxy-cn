@@ -5,12 +5,12 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/albar965/littlenavmap/releases/download/v3.0.17/LittleNavmap-win64-3.0.17.zip",
+      "url": "https://ghfast.top/https://github.com/albar965/littlenavmap/releases/download/v3.0.17/LittleNavmap-win64-3.0.17.zip",
       "extract_dir": "LittleNavmap-win64-3.0.17",
       "hash": "39359e01302d6b2d078443985522f499b06c7a076f28b393583cdccaa27a6979"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/albar965/littlenavmap/releases/download/v3.0.17/LittleNavmap-win32-3.0.17.zip",
+      "url": "https://ghfast.top/https://github.com/albar965/littlenavmap/releases/download/v3.0.17/LittleNavmap-win32-3.0.17.zip",
       "extract_dir": "LittleNavmap-win32-3.0.17",
       "hash": "4c2c4767f36fe1141f3df128b32de9d3fb39fb776f958ae3aa4449c718ca3d3c"
     }
@@ -33,11 +33,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/albar965/littlenavmap/releases/download/v$version/LittleNavmap-win64-$version.zip",
+        "url": "https://ghfast.top/https://github.com/albar965/littlenavmap/releases/download/v$version/LittleNavmap-win64-$version.zip",
         "extract_dir": "LittleNavmap-win64-$version"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/albar965/littlenavmap/releases/download/v$version/LittleNavmap-win32-$version.zip",
+        "url": "https://ghfast.top/https://github.com/albar965/littlenavmap/releases/download/v$version/LittleNavmap-win32-$version.zip",
         "extract_dir": "LittleNavmap-win32-$version"
       }
     }

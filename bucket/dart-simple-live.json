@@ -6,7 +6,7 @@
     "identifier": "GPL-3.0 license",
     "url": "https://github.com/xiaoyaocz/dart_simple_live#GPL-3.0-1-ov-file"
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/xiaoyaocz/dart_simple_live/releases/download/v1.8.3/simple_live_app-1.8.3%2B10803-windows.zip",
+  "url": "https://ghfast.top/https://github.com/xiaoyaocz/dart_simple_live/releases/download/v1.8.3/simple_live_app-1.8.3%2B10803-windows.zip",
   "hash": "e48d78a360450f75a5454073edfa24a9a69a502e894363da979304beb1ccf771",
   "installer": {
     "script": [
@@ -29,6 +29,6 @@
     "regex": "/releases/download/v([\\d.]+)/(?<file1>simple_live_app-([\\d.]+)%2B([\\d.]+)-windows.*?\\.msix).*?(?<file2>simple_live_app-([\\d.]+)%2B([\\d.]+)-windows.*?\\.zip)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/xiaoyaocz/dart_simple_live/releases/download/v$version/$matchFile2"
+    "url": "https://ghfast.top/https://github.com/xiaoyaocz/dart_simple_live/releases/download/v$version/$matchFile2"
   }
 }

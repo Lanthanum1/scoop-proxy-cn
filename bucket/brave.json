@@ -8,15 +8,15 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-x64.zip",
+      "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-x64.zip",
       "hash": "761531240d220533b6cd0b120bcf668e5556894a6f41c4bb3da68d9a6b9e81e4"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-ia32.zip",
+      "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-ia32.zip",
       "hash": "997cec9eacd41549fb271bff8eb40fe34fd6b61ff23033f893168f82a2f9ffea"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-arm64.zip",
+      "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v1.78.94/brave-v1.78.94-win32-arm64.zip",
       "hash": "5f76a697d10f03af18e95796610bf23bfa180421aa16b746003169139f04e61e"
     }
   },
@@ -52,13 +52,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+        "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-ia32.zip"
+        "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-ia32.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-arm64.zip"
+        "url": "https://ghfast.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-arm64.zip"
       }
     },
     "hash": {

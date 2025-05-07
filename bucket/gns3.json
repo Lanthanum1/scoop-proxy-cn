@@ -12,7 +12,7 @@
   "suggest": {
     "Nmap (includes Npcap)": "nmap"
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/GNS3/gns3-gui/releases/download/v2.2.54/GNS3-2.2.54-all-in-one.exe#/dl.7z",
+  "url": "https://ghfast.top/https://github.com/GNS3/gns3-gui/releases/download/v2.2.54/GNS3-2.2.54-all-in-one.exe#/dl.7z",
   "hash": "99f365fec79627bfb4ff77f3c15878f23c1300447a9741b1bad05fbc99e5db61",
   "pre_install": [
     "Move-Item \"$dir\\`$TEMP\\*\" \"$dir\"",
@@ -43,9 +43,9 @@
     "github": "https://github.com/GNS3/gns3-gui"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/GNS3/gns3-gui/releases/download/v$version/GNS3-$version-all-in-one.exe#/dl.7z",
+    "url": "https://ghfast.top/https://github.com/GNS3/gns3-gui/releases/download/v$version/GNS3-$version-all-in-one.exe#/dl.7z",
     "hash": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/GNS3/gns3-gui/releases/download/v$version/GNS3-$version-all-in-one.exe.sha256"
+      "url": "https://ghfast.top/https://github.com/GNS3/gns3-gui/releases/download/v$version/GNS3-$version-all-in-one.exe.sha256"
     }
   }
 }

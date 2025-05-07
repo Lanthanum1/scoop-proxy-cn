@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/itchyny/gojo/releases/download/v0.3.2/gojo_v0.3.2_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/itchyny/gojo/releases/download/v0.3.2/gojo_v0.3.2_windows_amd64.zip",
       "extract_dir": "gojo_v0.3.2_windows_amd64",
       "hash": "f56928712723f76d3cff59d7d7dde1227469beb124b15c98841c50d4d21af54f"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/itchyny/gojo/releases/download/v0.3.2/gojo_v0.3.2_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/itchyny/gojo/releases/download/v0.3.2/gojo_v0.3.2_windows_arm64.zip",
       "extract_dir": "gojo_v0.3.2_windows_arm64",
       "hash": "da10e79ebab176589a0699f823a8b4b3ad75d91515c351c7b514973765bda762"
     }
@@ -20,11 +20,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/itchyny/gojo/releases/download/v$version/gojo_v$version_windows_amd64.zip",
+        "url": "https://ghfast.top/https://github.com/itchyny/gojo/releases/download/v$version/gojo_v$version_windows_amd64.zip",
         "extract_dir": "gojo_v$version_windows_amd64"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/itchyny/gojo/releases/download/v$version/gojo_v$version_windows_arm64.zip",
+        "url": "https://ghfast.top/https://github.com/itchyny/gojo/releases/download/v$version/gojo_v$version_windows_arm64.zip",
         "extract_dir": "gojo_v$version_windows_arm64"
       }
     }

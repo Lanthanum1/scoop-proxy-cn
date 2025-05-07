@@ -5,7 +5,7 @@
   "license": "Apache-2.0|MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/mozilla/dump_syms/releases/download/v2.3.4/dump_syms-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/mozilla/dump_syms/releases/download/v2.3.4/dump_syms-x86_64-pc-windows-msvc.zip",
       "hash": "ec919e366a93cb78f9d400be3d4c528ee2fbe13ad2b2f47fe778e3f5f738e362"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/mozilla/dump_syms/releases/download/v$version/dump_syms-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/mozilla/dump_syms/releases/download/v$version/dump_syms-x86_64-pc-windows-msvc.zip"
       }
     },
     "hash": {

@@ -3,7 +3,7 @@
   "description": "A CLI utility that compares and prints diff for Keepass database files.",
   "homepage": "https://github.com/aivanovski/kp-diff",
   "license": "Apache-2.0",
-  "url": "https://ghproxy.085404.xyz/https://github.com/aivanovski/kp-diff/releases/download/0.7.2/kp-diff.jar",
+  "url": "https://ghfast.top/https://github.com/aivanovski/kp-diff/releases/download/0.7.2/kp-diff.jar",
   "hash": "85779b84db8a6d35ea30c766c0c51c52fff43125e9242863f8bf5dde9a43eba8",
   "bin": "kp-diff.jar",
   "suggest": {
@@ -16,6 +16,6 @@
   },
   "checkver": "github",
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/aivanovski/kp-diff/releases/download/$version/kp-diff.jar"
+    "url": "https://ghfast.top/https://github.com/aivanovski/kp-diff/releases/download/$version/kp-diff.jar"
   }
 }

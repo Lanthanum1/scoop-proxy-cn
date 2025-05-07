@@ -5,7 +5,7 @@
   "license": "GPL-3.0 license",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/raryelcostasouza/pyTranscriber/releases/download/v2.0-rc2/pyTranscriber-win-v2.0-rc2-py3.8.zip",
+      "url": "https://ghfast.top/https://github.com/raryelcostasouza/pyTranscriber/releases/download/v2.0-rc2/pyTranscriber-win-v2.0-rc2-py3.8.zip",
       "hash": "1851a7bf2dd97730b75a35851331aec923387399fa8d7a2608f27812658e8e7a"
     }
   },
@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/raryelcostasouza/pyTranscriber/releases/download/v$version/$matchFile"
+        "url": "https://ghfast.top/https://github.com/raryelcostasouza/pyTranscriber/releases/download/v$version/$matchFile"
       }
     }
   }

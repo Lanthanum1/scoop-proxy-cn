@@ -1,9 +1,9 @@
 {
-  "$schema": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+  "$schema": "https://ghfast.top/https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
   "homepage": "https://github.com/kiennq/emacs-build",
   "license": "GPLv3",
   "version": "31.340.20250501.3b18648",
-  "url": "https://ghproxy.085404.xyz/https://github.com/kiennq/emacs-build/releases/download/v31.340.20250501.3b18648/emacs-3b18648-ucrt-x86_64-mps.msix",
+  "url": "https://ghfast.top/https://github.com/kiennq/emacs-build/releases/download/v31.340.20250501.3b18648/emacs-3b18648-ucrt-x86_64-mps.msix",
   "hash": "31567fae6afd4660b6a420dfe41f39cd177be163f3dbf00ed9f0fb7b34a4cc7c",
   "installer": {
     "script": [
@@ -30,7 +30,7 @@
     "regex": "/tag/v([\\d\\w.-]+)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/kiennq/emacs-build/releases/download/v$version/emacs-$buildVersion-ucrt-x86_64-mps.msix"
+    "url": "https://ghfast.top/https://github.com/kiennq/emacs-build/releases/download/v$version/emacs-$buildVersion-ucrt-x86_64-mps.msix"
   },
   "shortcuts": [
     [

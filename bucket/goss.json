@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/goss-org/goss/releases/download/v0.4.9/goss-windows-amd64.exe#/goss.exe",
+      "url": "https://ghfast.top/https://github.com/goss-org/goss/releases/download/v0.4.9/goss-windows-amd64.exe#/goss.exe",
       "hash": "52f6eab0b2abb6266d847d26547da8c5c6f7a1a4b8c5ba99619907b81f6ab9d4"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/goss-org/goss/releases/download/v$version/goss-windows-amd64.exe#/goss.exe"
+        "url": "https://ghfast.top/https://github.com/goss-org/goss/releases/download/v$version/goss-windows-amd64.exe#/goss.exe"
       }
     },
     "hash": {

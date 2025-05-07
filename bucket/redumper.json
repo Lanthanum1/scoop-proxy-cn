@@ -5,12 +5,12 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_565/redumper-2025.05.04_build565-Windows64.zip",
+      "url": "https://ghfast.top/https://github.com/superg/redumper/releases/download/build_565/redumper-2025.05.04_build565-Windows64.zip",
       "extract_dir": "redumper-2025.05.04_build565-Windows64\\bin",
       "hash": "787f205b1f419717c46217d988752042cb80c081ba25f71f9a91431f23591e0a"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_565/redumper-2025.05.04_build565-Windows32.zip",
+      "url": "https://ghfast.top/https://github.com/superg/redumper/releases/download/build_565/redumper-2025.05.04_build565-Windows32.zip",
       "extract_dir": "redumper-2025.05.04_build565-Windows32\\bin",
       "hash": "6ea8e6099a45055ef438957d11a1fbdcaf05c59f0187e924ba23351d6d00ce23"
     }
@@ -23,11 +23,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_$version/redumper-$matchDate_build$version-Windows64.zip",
+        "url": "https://ghfast.top/https://github.com/superg/redumper/releases/download/build_$version/redumper-$matchDate_build$version-Windows64.zip",
         "extract_dir": "redumper-$matchDate_build$version-Windows64\\bin"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_$version/redumper-$matchDate_build$version-Windows32.zip",
+        "url": "https://ghfast.top/https://github.com/superg/redumper/releases/download/build_$version/redumper-$matchDate_build$version-Windows32.zip",
         "extract_dir": "redumper-$matchDate_build$version-Windows32\\bin"
       }
     }

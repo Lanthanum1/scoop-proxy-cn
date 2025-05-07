@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/hzhilong/bilibili-backup/releases/download/v2.1.2/bilibili-backup_2.1.2.exe",
+      "url": "https://ghfast.top/https://github.com/hzhilong/bilibili-backup/releases/download/v2.1.2/bilibili-backup_2.1.2.exe",
       "hash": "ca5daf821c7256cc7829907a723e95bbafdd39cf7d5bd1a2ec2c2f3f579ad152"
     }
   },
@@ -20,7 +20,7 @@
     "github": "https://github.com/hzhilong/bilibili-backup"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/hzhilong/bilibili-backup/releases/download/v$version/bilibili-backup_$version.exe",
+    "url": "https://ghfast.top/https://github.com/hzhilong/bilibili-backup/releases/download/v$version/bilibili-backup_$version.exe",
     "hash": {
       "mode": "download"
     }

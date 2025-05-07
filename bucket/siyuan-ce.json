@@ -6,7 +6,7 @@
   "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/siyuan-ce.json",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/siyuan-community/siyuan/releases/download/v3.1.27/siyuan-CE-v3.1.27-win.exe#/dl.7z",
+      "url": "https://ghfast.top/https://github.com/siyuan-community/siyuan/releases/download/v3.1.27/siyuan-CE-v3.1.27-win.exe#/dl.7z",
       "hash": "ff66b5c474d13981078470dffdb8ca548b9eebe559d6e00e833867583112f799",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/siyuan-community/siyuan/releases/download/v$version/siyuan-CE-v$version-win.exe#/dl.7z"
+        "url": "https://ghfast.top/https://github.com/siyuan-community/siyuan/releases/download/v$version/siyuan-CE-v$version-win.exe#/dl.7z"
       }
     }
   }

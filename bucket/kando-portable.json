@@ -6,7 +6,7 @@
     "identifier": "MIT license",
     "url": "https://github.com/kando-menu/kando?tab=readme-ov-file#License-1-ov-file"
   },
-  "url": "https://ghproxy.085404.xyz/https://github.com/kando-menu/kando/releases/download/v1.8.0/Kando-win32-x64-1.8.0.zip",
+  "url": "https://ghfast.top/https://github.com/kando-menu/kando/releases/download/v1.8.0/Kando-win32-x64-1.8.0.zip",
   "hash": "7fe6d2df79a6901b46236584b67d1ab4e81a2849d9aa4eb5f1228447cab287e7",
   "installer": {
     "script": [
@@ -35,6 +35,6 @@
     "regex": "/releases/tag/v([\\d.]+)"
   },
   "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-x64-$version.zip"
+    "url": "https://ghfast.top/https://github.com/kando-menu/kando/releases/download/v$version/Kando-win32-x64-$version.zip"
   }
 }

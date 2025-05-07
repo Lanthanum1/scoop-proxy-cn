@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/codesnap-rs/codesnap/releases/download/v0.12.1/codesnap-cli_v0.12.1_x86_64-pc-windows-msvc.zip",
+      "url": "https://ghfast.top/https://github.com/codesnap-rs/codesnap/releases/download/v0.12.1/codesnap-cli_v0.12.1_x86_64-pc-windows-msvc.zip",
       "hash": "57d965a54d4eaefbbdc6811535fdbe67a4e28e8504b30925328dca3db914f0d2"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/codesnap-rs/codesnap/releases/download/v$version/codesnap-cli_v$version_x86_64-pc-windows-msvc.zip"
+        "url": "https://ghfast.top/https://github.com/codesnap-rs/codesnap/releases/download/v$version/codesnap-cli_v$version_x86_64-pc-windows-msvc.zip"
       }
     }
   }

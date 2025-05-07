@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5273/llama-b5273-bin-win-avx512-x64.zip",
+      "url": "https://ghfast.top/https://github.com/ggml-org/llama.cpp/releases/download/b5273/llama-b5273-bin-win-avx512-x64.zip",
       "hash": "8fac87e743051b5d1bed59b4315aa8322ac98e5a940c51884cfc9830844b5c8b"
     }
   },
@@ -35,7 +35,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-avx512-x64.zip"
+        "url": "https://ghfast.top/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-avx512-x64.zip"
       }
     }
   }

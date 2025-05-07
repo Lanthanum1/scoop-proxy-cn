@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/prometheus-community/windows_exporter/releases/download/v0.30.6/windows_exporter-0.30.6-amd64.exe#/windows_exporter.exe",
+      "url": "https://ghfast.top/https://github.com/prometheus-community/windows_exporter/releases/download/v0.30.6/windows_exporter-0.30.6-amd64.exe#/windows_exporter.exe",
       "hash": "737fd6c9d055b6d59deabececb371e0eb4ee728812578faf68764e79cd30d47c"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/prometheus-community/windows_exporter/releases/download/v0.30.6/windows_exporter-0.30.6-arm64.exe#/windows_exporter.exe",
+      "url": "https://ghfast.top/https://github.com/prometheus-community/windows_exporter/releases/download/v0.30.6/windows_exporter-0.30.6-arm64.exe#/windows_exporter.exe",
       "hash": "80d306962bd85a2ec25d9c5e82fc7901efdd2dc781c3e1d80b9ef049444b4cbb"
     }
   },
@@ -19,10 +19,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/prometheus-community/windows_exporter/releases/download/v$version/windows_exporter-$version-amd64.exe#/windows_exporter.exe"
+        "url": "https://ghfast.top/https://github.com/prometheus-community/windows_exporter/releases/download/v$version/windows_exporter-$version-amd64.exe#/windows_exporter.exe"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/prometheus-community/windows_exporter/releases/download/v$version/windows_exporter-$version-arm64.exe#/windows_exporter.exe"
+        "url": "https://ghfast.top/https://github.com/prometheus-community/windows_exporter/releases/download/v$version/windows_exporter-$version-arm64.exe#/windows_exporter.exe"
       }
     },
     "hash": {

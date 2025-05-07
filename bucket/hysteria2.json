@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/apernet/hysteria/releases/download/app%2Fv2.6.1/hysteria-windows-amd64-avx.exe#/hysteria.exe",
+      "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app%2Fv2.6.1/hysteria-windows-amd64-avx.exe#/hysteria.exe",
       "hash": "4180314cb705d6251dca8e951d6de040c627428e7ea3e2f5be80733815928f36"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/apernet/hysteria/releases/download/app%2Fv2.6.1/hysteria-windows-386.exe#/hysteria.exe",
+      "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app%2Fv2.6.1/hysteria-windows-386.exe#/hysteria.exe",
       "hash": "55d261cb2d883fc5c19e103159e1b29795f8198857e072b8c649b8825f6adba2"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/apernet/hysteria/releases/download/app%2Fv$version/hysteria-windows-amd64-avx.exe#/hysteria.exe"
+        "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app%2Fv$version/hysteria-windows-amd64-avx.exe#/hysteria.exe"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/apernet/hysteria/releases/download/app%2Fv$version/hysteria-windows-386.exe#/hysteria.exe"
+        "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app%2Fv$version/hysteria-windows-386.exe#/hysteria.exe"
       }
     },
     "hash": {

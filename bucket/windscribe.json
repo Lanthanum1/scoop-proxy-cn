@@ -6,7 +6,7 @@
   "notes": "",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Windscribe/Desktop-App/releases/download/v2.14.12/Windscribe_2.14.12.exe",
+      "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v2.14.12/Windscribe_2.14.12.exe",
       "hash": "56eb96462db9beaaa94920edfa85f3f1ccea457d4f64ba97bc4dc6341467b31c"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version.exe"
+        "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version.exe"
       }
     }
   }

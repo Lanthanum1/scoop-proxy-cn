@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_amd64.zip",
+      "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_amd64.zip",
       "hash": "5c9a60f47e337b9a6020ec1a729a71738441fcf6d9d0b6c7a98098641b4a7c20"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_arm64.zip",
       "hash": "9ad177bef17cdabb6124f859548df6f255dbec8dba3dcd464822b2e917305756"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_386.zip",
+      "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v2.5.1/flux_2.5.1_windows_386.zip",
       "hash": "409a829c391cecb0ac556af73591fd5c158c02f707fd6f02b6df994e87b8abad"
     }
   },
@@ -26,13 +26,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_amd64.zip"
+        "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_arm64.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_386.zip"
+        "url": "https://ghfast.top/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_386.zip"
       }
     },
     "hash": {

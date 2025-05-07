@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/treeverse/lakeFS/releases/download/v1.55.0/lakeFS_1.55.0_Windows_x86_64.zip",
+      "url": "https://ghfast.top/https://github.com/treeverse/lakeFS/releases/download/v1.55.0/lakeFS_1.55.0_Windows_x86_64.zip",
       "hash": "6fa2cd6747f1128b07ce09b50aa62d8822ba04846d6a389c56f935d89badd17f"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/treeverse/lakeFS/releases/download/v1.55.0/lakeFS_1.55.0_Windows_arm64.zip",
+      "url": "https://ghfast.top/https://github.com/treeverse/lakeFS/releases/download/v1.55.0/lakeFS_1.55.0_Windows_arm64.zip",
       "hash": "7b4de6db3bec4f29a6e20097d2b052d37787ac1618bc7da6e8630cc5fd2c11df"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/treeverse/lakeFS/releases/download/v$version/lakeFS_$version_Windows_x86_64.zip"
+        "url": "https://ghfast.top/https://github.com/treeverse/lakeFS/releases/download/v$version/lakeFS_$version_Windows_x86_64.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/treeverse/lakeFS/releases/download/v$version/lakeFS_$version_Windows_arm64.zip"
+        "url": "https://ghfast.top/https://github.com/treeverse/lakeFS/releases/download/v$version/lakeFS_$version_Windows_arm64.zip"
       }
     },
     "hash": {

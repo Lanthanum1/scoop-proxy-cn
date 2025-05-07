@@ -15,8 +15,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/borkdude/deps.clj/releases/download/v1.12.0.1530/deps.clj-1.12.0.1530-windows-amd64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/clojure/brew-install/releases/download/1.12.0.1530/clojure-tools.zip"
+        "https://ghfast.top/https://github.com/borkdude/deps.clj/releases/download/v1.12.0.1530/deps.clj-1.12.0.1530-windows-amd64.zip",
+        "https://ghfast.top/https://github.com/clojure/brew-install/releases/download/1.12.0.1530/clojure-tools.zip"
       ],
       "hash": [
         "ecb3be187bb40d491991bfed7afeec3e00d4810caff4e07fbc56e9dacef84d26",
@@ -54,8 +54,8 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghproxy.085404.xyz/https://github.com/borkdude/deps.clj/releases/download/v$version/deps.clj-$version-windows-amd64.zip",
-          "https://ghproxy.085404.xyz/https://github.com/clojure/brew-install/releases/download/$matchHead$matchTail/clojure-tools.zip"
+          "https://ghfast.top/https://github.com/borkdude/deps.clj/releases/download/v$version/deps.clj-$version-windows-amd64.zip",
+          "https://ghfast.top/https://github.com/clojure/brew-install/releases/download/$matchHead$matchTail/clojure-tools.zip"
         ]
       }
     }

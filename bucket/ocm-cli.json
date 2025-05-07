@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/openshift-online/ocm-cli/releases/download/v1.0.5/ocm-windows-amd64#/ocm.exe",
+      "url": "https://ghfast.top/https://github.com/openshift-online/ocm-cli/releases/download/v1.0.5/ocm-windows-amd64#/ocm.exe",
       "hash": "dc31b64b29d675365ed4e942ac48a67bbe7c0503d66ab75142181c7e2fe9dd99"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/openshift-online/ocm-cli/releases/download/v$version/ocm-windows-amd64#/ocm.exe"
+        "url": "https://ghfast.top/https://github.com/openshift-online/ocm-cli/releases/download/v$version/ocm-windows-amd64#/ocm.exe"
       }
     },
     "hash": {

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Nigh/ahko/releases/download/v1.0.3/ahko.zip",
+      "url": "https://ghfast.top/https://github.com/Nigh/ahko/releases/download/v1.0.3/ahko.zip",
       "hash": "36f67b13c97b93c30136a0b35574a79c8aa6f90c1f129f64f5c2714f505d6298"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Nigh/ahko/releases/download/v$version/ahko.zip"
+        "url": "https://ghfast.top/https://github.com/Nigh/ahko/releases/download/v$version/ahko.zip"
       }
     }
   }
